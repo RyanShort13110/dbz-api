@@ -4,6 +4,7 @@ const cors = require('cors')
 const PORT = 8000
 
 app.use(cors())
+app.use(express.static('main'))
 
 const characters = {
   'krillin': {
@@ -259,6 +260,7 @@ const characters = {
   'unknown': 'Unknown character entered.'
 
 }
+
 
 app.get('/', (req, res) => {
   res.sendFile(__dirname + '/index.html')
