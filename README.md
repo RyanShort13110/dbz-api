@@ -8,11 +8,16 @@
 <h3 align="center">Unofficial DBZ API</h3>
 
 <div align="center">
-    <img src="https://duckduckgo.com/i/fa1f7406.png" alt="Logo" width="200">
+    <img src="https://duckduckgo.com/i/fa1f7406.png" alt="Logo" width="300">
     </a>
 </div>
 
+<div>
+    <h2 align="center">View Project</h2>
+    <p align="center">View the live site: <a href="https://unofficialdbzapi.cyclic.app">The Unofficial DBZ API</a></p>
+</div>
 
+---
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -26,14 +31,9 @@
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
@@ -41,9 +41,10 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## About
 
-Use this API to obtain character information from the DBZ series created by Toei Animation. This API is NOT affiliated with Toei Animation whatsoever.
+This is a simple API that sends DBZ character data to client devices. 
+It is not affiliated with DBZ or Toei Animation in any way.
 
 ### Built With
 
@@ -53,49 +54,49 @@ Use this API to obtain character information from the DBZ series created by Toei
 * HTML
 
 
-<!-- GETTING STARTED -->
-## Getting Started
-
-If you want to work on the code or make any changes...
-Fork the code to get started.
-
-### Prerequisites
-
-No API key needed.
-
-### Installation
-
-
-
-1. Clone the repo
-   ```sh
-   git clone https://github.com/RyanShort13110/dbz-api
-   ```
-3. Ensure you have express installed within the main project folder.
-   ```
-   npm install express --save
-   ```
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- USAGE EXAMPLES -->
 ## Usage and Docs
 
 This API was designed to make obtaining DBZ character information easy!
-The url is a bit strange, this is the predetermined url I was given from Cyclic.
-I will update that after I get a bit more practice with this new platform.
-
+ 
 ```
-https://nice-gray-cockroach-garb.cyclic.app/api/character-name
+https://unofficialdbzapi.cyclic.app/api/character-name
 ```
 Simply replace 'character-name' with any character from the DBZ universe.
 ```
-https://nice-gray-cockroach-garb.cyclic.app/api/krillin
+https://unofficialdbzapi.cyclic.app/api/krillin
 ```
 
-Data will be returned, specifically height & weight of character, birth & death date(s) for caracters, a short description and more!
+The API response will contain height and weight info, character birth date and death date(s), short description, images and more.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+<!-- GETTING STARTED -->
+## Wanna add something?
+
+If you want to work on the code or make any changes, fork the code to get started.
+
+
+### Clone and Installation
+
+You'll notice I have a .gitignore file blocking node_modules. You'll need those on your end to make any changes.
+
+
+1. Clone the repo
+   ```
+   git clone https://github.com/RyanShort13110/dbz-api
+   ```
+2. Initialize npm within the main project folder
+   ```
+   npm init
+   ```
+3. Ensure express is installed within the main project folder.
+    ```
+   npm install express --save
+   ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -140,6 +141,8 @@ Project Link: [Unofficial DBZ API](https://nice-gray-cockroach-garb.cyclic.app/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+
+Again, this API is NOT affiliated with Toei Animation whatsoever, I'm just a fan.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
