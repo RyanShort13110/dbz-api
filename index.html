@@ -4,21 +4,35 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
+  <title>Unofficial DBZ API</title>
 </head>
 <body>
-  <h1>Dragon Ball Z Character Info API</h1>
-  <p>This simple API shows info on DBZ characters like height & weight, birth & death dates, power levels, short descriptions and more!</p>
-  <p>Please use <code>https://nice-gray-cockroach-garb.cyclic.app/character-name</code></p>
-  <p>Change <code>character-name</code> to whichever characters name you want to view.</p>
-  <h2>Test it out below!</h2>
+  <img src="https://duckduckgo.com/i/fa1f7406.png" alt="">
+  <h1>Unofficial Dragon Ball Z Character API</h1>
+  <p>This API shows info on DBZ characters like height & weight, dates for birth & death, power levels, short descriptions and more.</p>
 
-  <input type="text" class="charactersName">
+  <section id="quickDocs">
+    <h2>Quick Docs</h2>
+    <p>url: <code>https://nice-gray-cockroach-garb.cyclic.app/character-name</code></p>
+    <p>Change <code>character-name</code> to whichever character you want to view.</p>
+    <p>For example: <code>https://nice-gray-cockroach-garb.cyclic.app/krillin</code></p>
+  </section>
+
+  <section id="testSec">
+    <h2>Test it out below</h2>
+    <p>Enter a characters name, click the button, view some data. Easy peasy.</p>
+  </section>
+
+  <input placeholder="Krillin" type="text" class="charactersName">
   <button>Get Character Info</button>
 
   <h3 id="charName"></h3>
+  <img id="charImg" src="">
   <p id="charAbout"></p>
-  <img id="charImg" src="" alt="characters image">
+
+  <p>My site: <a target="_blank" href="https://ryanshort.netlify.app">ryanshort.netlify.app</a></p>
+  <p>Github Repo: <a target="_blank" href="https://github.com/RyanShort13110/dbz-api">https://github.com/RyanShort13110/dbz-api</a></p>
+  <p>This site is in no way affiliated with Toei Animation or any series or entity produced by Toei Animation, I'm just a fan plz don't sue =)</p>
 
   <script src="main.js"></script>
 </body>

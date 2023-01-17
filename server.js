@@ -203,7 +203,60 @@ const characters = {
       'Dragon Team'
     ]
   },
-  'unknown': 'Unknown character entered.',
+  'king kai': {
+    'name': 'King Kai, North Kai',
+    'pic': 'https://static.wikia.nocookie.net/dragonball/images/6/61/KingKaiNV.png/revision/latest/scale-to-width-down/350?cb=20200219185209',
+    'about': 'King Kai (界王様 Kaiō-sama, lit. "King of Worlds") is the North Kai (北の界王 Kita no Kaiō, lit. "North King of Worlds") and king of Universe 7\'s North Area. A comedy lover and brilliant mentor, he acts as Goku\'s Martial Arts teacher and instructs him in using the Kaio-ken and the Spirit Bomb. He later teaches Krillin, Yamcha, Tien Shinhan, Piccolo, and Chiaotzu and continues to act as a major supporting character throughout the majority of the series.',
+    'race': 'Core Person',
+    'height': 'Over 4 m',
+    'weight': 'Unknown',
+    'birthDate': 'Unknown',
+    'deathDates': ['May 26, Age 767'
+    ],
+    'alliegiance': ['Dragon Team (Support)',
+      'Time Patrol'
+    ]
+  },
+  'yamcha': {
+    'name': 'Yamcha',
+    'pic': 'https://static.wikia.nocookie.net/dragonball/images/5/59/Yamcha_DB_Episode_138.png/revision/latest/scale-to-width-down/236?cb=20210904213322',
+    'about': 'Yamcha (ヤムチャ Yamucha) is a major deuteragonist in the Dragon Ball manga and in the anime Dragon Ball, and later a supporting tritagonist in Dragon Ball Z and Dragon Ball Super, with a few appearances in Dragon Ball GT. He is a former boyfriend of Bulma and the lifelong best friend of Puar. A former desert bandit, Yamcha was once an enemy of Goku, but quickly reformed and became a friend and ally. Brave, boastful and dependable, Yamcha is a very talented martial artist and one of the most powerful humans on Earth, possessing skills and traits that allow him to fight alongside his fellow Z Fighters when major threats loom. Although he retired by the latter half of Dragon Ball Z, due to being largely outclassed by both his allies (namely the Saiyans) and their enemies, he is always present whenever a new threat approaches, and will occasionally lend a helping hand, thus proving himself to be a powerful ally in his own right',
+    'race': 'Human-type Earthling',
+    'height': '183 cm (6\'0")',
+    'weight': '68 kg (150 lbs)',
+    'birthDate': 'March 20, Age 733',
+    'deathDates': ['November 3, Age 762',
+      'May 8, Age 774',
+      'Age 779'
+    ],
+    'alliegiance': ['Dragon Team',
+      'Turtle School (formerly)',
+      'Taitans',
+      'Team Universe 7 (baseball only)',
+      'Galactic Patrol'
+    ]
+  },
+  'tien': {
+    'name': 'Tien Shinhan',
+    'pic': 'https://static.wikia.nocookie.net/dragonball/images/e/e2/Tien_DBZ_Episode_152.png/revision/latest/scale-to-width-down/276?cb=20221127060114',
+    'about': 'Tien Shinhan (天津飯 or 天津飯 Tenshinhan) is a disciplined, reclusive and heavily devoted martial artist, and one of the strongest Earthlings within the Dragon Ball universe. He also possesses a few non-human traits due to being descended from the alien Triclops race. He was originally a student of the Crane School who desired revenge against Goku for defeating his mentor, Mercenary Tao, but realized he was on the wrong side with the help of Master Roshi. He battles alongside the other Z Fighters against major threats to the Earth, often courageously engaging enemies far more powerful than himself. However, he spends most of his time training with his lifelong best friend, Chiaotzu. ',
+    'race': 'Human-type Earthling / Triclops ',
+    'height': '187 cm (6\'2")',
+    'weight': '75 kg (165 lbs)',
+    'birthDate': 'Age 733[',
+    'deathDates': ['November 3, Age 762',
+      'May 8, Age 774',
+      'Age 821-889'
+    ],
+    'alliegiance': ['Crane School (formerly)',
+      'Dragon Team',
+      'New Crane School',
+      'Tien-Shin Style Dojo',
+      'Team Universe 7',
+      'Galactic Patrol'
+    ]
+  },
+  'unknown': 'Unknown character entered.'
 
 }
 
@@ -220,6 +273,6 @@ app.get('/api/:character', (req, res) => { // listen for specific character name
   }
 })
 
-app.listen(process.env.PORT || PORT, () => { // listen on predefined cyclic port OR 8000
+app.listen(process.env.PORT || PORT, () => { // listen on predefined cyclic port or our own port, preferrably cyclic
   console.log(`Server listening on port ${PORT}`)
 })
