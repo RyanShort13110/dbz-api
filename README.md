@@ -13,7 +13,7 @@
 </div>
 
 <div>
-    <p align="center">View the live site: <a href="https://unofficialdbzapi.netlify.app">The Unofficial DBZ API</a></p>
+    <p align="center">View the documentation/testing site: <a href="https://unofficialdbzapi.netlify.app">The Unofficial DBZ API</a></p>
 </div>
 
 ---
