@@ -8,7 +8,7 @@ app.use(cors())
 const characters = {
   'krillin': {
     'name': 'Krillin',
-    'pic': 'https://static.wikia.nocookie.net/dragonball/images/5/54/Krillin_DB_Episode_134.png/revision/latest/scale-to-width-down/344?cb=20220114045158',
+    'pic': 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette.wikia.nocookie.net%2Fdeathbattlefanon%2Fimages%2F6%2F66%2FKrillin_by_maffo1989-d8el2w4.png%2Frevision%2Flatest%3Fcb%3D20161025010341&f=1&nofb=1&ipt=9d6ea7c32cdff7c82f9cbeb3b47bb12e3ea286c2291c378188f1cd1a68b21479&ipo=images',
     'about': 'Krillin (クリリン Kuririn) is a supporting protagonist in the Dragon Ball series. He\'s one of the most powerful and talented martial artists on Earth. He is courageous, faithful, and good-natured. Krillin had a brief rivalry with Goku when they first trained under Master Roshi, but they quickly became lifelong best friends, to the point that Goku cares for him as much as his family and closest ones. He is a prominent Z Fighter, despite usually being overpowered by the major enemies. His short stature and baldness (with the exception of when he grows out his hair in the Majin Buu Saga onwards, although he occasionally shaves his head in several sagas in Dragon Ball Super) aid him in his ability to provide comic relief during tense moments. During the latter half of Dragon Ball Z, he largely retires from fighting, opting to settle down with his family instead, becoming the husband of Android 18 and the father of Marron. However, because of all things that occur during the Golden Frieza Saga, he returns to his lifestyle as a warrior later on in Dragon Ball Super.',
     'race': 'Human-type Earthling',
     'height': '153 cm (5\'0")',
@@ -32,7 +32,7 @@ const characters = {
   },
   'goku': {
     'name': 'Goku, Kakarot',
-    'pic': 'https://static.wikia.nocookie.net/dragonball/images/b/ba/Goku_anime_profile.png/revision/latest/scale-to-width-down/252?cb=20220825041430',
+    'pic': 'http://getdrawings.com/cliparts/goku-clipart-12.png',
     'about': 'Son Goku (孫悟空 Son Gokū), born Kakarot (カカロット Kakarotto), is a Saiyan raised on Earth and the overall main protagonist of the Dragon Ball series. Originally sent to Earth as an infant, Kakarot would be adopted by Grandpa Gohan who named him Son Goku. A head injury at an early age alters Goku\'s memory, ridding him of his initial destructive nature and allowing him to grow up to become one of Earth\'s greatest defenders. He constantly strives and trains to be the greatest warrior possible, which has kept the Earth and the universe safe from destruction many times.',
     'race': 'Saiyan',
     'height': '175 cm (5\'9")',
@@ -51,7 +51,7 @@ const characters = {
   },
   'vegeta': {
     'name': 'Vegeta',
-    'pic': 'https://static.wikia.nocookie.net/dragonball/images/9/94/Vegeta_anime_profile.png/revision/latest/scale-to-width-down/308?cb=20220825132119',
+    'pic': 'https://duckduckgo.com/?q=vegeta&t=newext&atb=v326-1&iar=images&iax=images&ia=images&iai=https%3A%2F%2Fstatic2.cbrimages.com%2Fwordpress%2Fwp-content%2Fuploads%2F2020%2F02%2FGood-Vegeta-Evil-Vegeta-feature-Image.jpg',
     'about': 'Vegeta (ベジータ Bejīta), more specifically Vegeta IV (ベジータ四世 Bejīta Yonsei) recognized as Prince Vegeta (ベジータ王子 Bejīta Ōji) is the prince of the fallen Saiyan race and the husband of Bulma, the father of Trunks and Bulla, the eldest son of King Vegeta, as well as one of the main characters of the Dragon Ball series. Regal, egotistical, and full of pride, Vegeta was once a ruthless, cold-blooded warrior and outright killer, but later abandons his role in the Frieza Force, instead opting to remain and live on Earth. He would later repeatedly fight alongside Universe 7\'s most powerful warriors in order to protect Earth and his family, as well as to surpass Goku in power. Vegeta\'s character development is the most praised and one of the biggest in the series. He started off serving as the main antagonist of the Vegeta Saga, but then as an anti-heroic tritagonist throughout the rest of Dragon Ball Z. After the Majin Buu Saga Vegeta would evolve into a hero as the main deuteragonist/secondary protagonist of the sequel series, Dragon Ball Super.',
     'race': 'Saiyan',
     'height': '164 cm (5\'4")',
@@ -73,7 +73,7 @@ const characters = {
   },
   'trunks': {
     'name': 'Trunks Brief',
-    'pic': 'https://static.wikia.nocookie.net/dragonball/images/7/74/Trunks_anime_profile.jpg/revision/latest?cb=20221003030555',
+    'pic': 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.k16bAHpriloOa5UzmSSblAHaJz%26pid%3DApi&f=1&ipt=a81efcab16e415c6db5db4e19b8afd665fa5b98054f1af36e3104b3ffb369190&ipo=images',
     'about': 'Trunks (トランクス Torankusu) is a Human-type Earthling/Saiyan hybrid, the firstborn child and only son of Vegeta and Bulma and the older brother of Bulla.',
     'race': '1/2 Saiyan - 1/2 Human-type Earthling',
     'height': '129 cm (4\'2")',
@@ -91,7 +91,7 @@ const characters = {
   },
   'bulma': {
     'name': 'Bulma Brief',
-    'pic': 'https://static.wikia.nocookie.net/dragonball/images/e/eb/Bulma_-_Blood_Rubies_-_000.png/revision/latest/scale-to-width-down/314?cb=20191109020452',
+    'pic': 'https://vignette.wikia.nocookie.net/dragonballfanon/images/d/d6/AnotherPathBulma.png/revision/latest?cb=20190407144610',
     'about': 'Bulma (ブルマ Buruma, lit. "Blooma") is a brilliant scientist and the second daughter of Capsule Corporation\'s founder Dr. Brief and his wife Bikini, the younger sister of Tights, and is Goku\'s first friend. She used to be the girlfriend of Yamcha, but moved on (while remaining friends with him) and, eventually, became the wife of Vegeta, as well as the mother of Trunks and Bulla. A technological and scientific genius who can turn her talents to almost any field and understand alien technology near-effortlessly, her inventions, and the resources of Capsule Corporation, have been invaluable to Goku and the rest of the Dragon Team many times. Her most notable invention is the Dragon Radar. Bulma is the most significant female character in the series. Aside from Goku, Bulma is the single longest-running character in the entire meta-series, being introduced in the first Dragon Ball chapter and episode and maintaining a prominent role until the end of the series.',
     'race': 'Human-type Earthling',
     'height': '165 cm (5\'5")',
@@ -108,7 +108,7 @@ const characters = {
   },
   'piccolo': {
     'name': 'Piccolo',
-    'pic': 'https://static.wikia.nocookie.net/dragonball/images/c/c2/Piccolomanga.png/revision/latest/scale-to-width-down/296?cb=20160826150304',
+    'pic': 'https://img1.wikia.nocookie.net/__cb20111124052312/dragonballupdates/images/3/34/PiccoloAndroidsSaga.png',
     'about': 'Piccolo Jr. (ピッコロ・ジュニア Pikkoro Junia, lit. "Piccolo Junior"), usually just called Piccolo and also known as Ma Junior (マジュニア Ma Junia), is a Namekian and also the final child and reincarnation of King Piccolo, later becoming the reunification of the Nameless Namekian after fusing with Kami, at which point he was once referred to as Kamiccolo by Goku. According to Grand Elder Guru, Piccolo, along with Kami and King Piccolo, are part of the Dragon Clan, who were the original creators of the Dragon Balls. A wise and cunning warrior, he was the main antagonist in the final saga of Dragon Ball, the Piccolo Jr. Saga, and was thus a ruthless enemy of Goku. However, starting with the first saga of Dragon Ball Z, the Raditz Saga, he began to lose all villainous traits, and when he started training Goku\'s son Gohan during the Vegeta Saga which led to the two developing a strong bond with each other, he became a permanent member of the Dragon Team and eventually one of Earth\'s greatest heroes.',
     'race': 'Demonic Namekian',
     'height': '226 cm (7\'5")',
