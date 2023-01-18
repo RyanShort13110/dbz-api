@@ -13,7 +13,6 @@
 </div>
 
 <div>
-    <h2 align="center">View Project</h2>
     <p align="center">View the live site: <a href="https://unofficialdbzapi.cyclic.app">The Unofficial DBZ API</a></p>
 </div>
 
