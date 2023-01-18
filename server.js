@@ -128,7 +128,7 @@ const characters = {
   },
   'gohan': {
     'name': 'Gohan',
-    'pic': 'https://static.wikia.nocookie.net/dragonball/images/d/d7/Gohan_anime_profile_2.png/revision/latest/scale-to-width-down/239?cb=20220825041045',
+    'pic': 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.A_bhk9VsWoRJPLdJrrzHXAHaKX%26pid%3DApi&f=1&ipt=c6867b009ed6719a7ac022ed819c07290dc512b56b00a8edcea9218cde7e4fd9&ipo=images',
     'about': 'Son Gohan (孫悟飯 Son Gohan) is a half-breed Saiyan and one of the most prominent characters in the Dragon Ball series. He is the elder son of the series\' primary protagonist Goku and his wife Chi-Chi, the older brother of Goten, the husband of Videl and father to Pan. He is named after Goku\'s adoptive grandfather, Gohan. Unlike his father, Gohan lacks a passion for fighting (although, he does possess a strong power within him) and prefers to do so only when his loved ones are threatened. Nevertheless, Gohan fights alongside the Dragon Team in the defense of Earth for much of his life.',
     'race': '1/2 Saiyan-1/2 Human-type Earthling',
     'height': '176 cm (5\'9")',
@@ -144,7 +144,7 @@ const characters = {
   },
   'goten': {
     'name': 'Goten',
-    'pic': 'https://static.wikia.nocookie.net/dragonball/images/5/5a/Goten_Teenager.jpg/revision/latest/scale-to-width-down/231?cb=20220920183551',
+    'pic': 'https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3eb70ccc-e7ad-4e1a-87fa-f97df9ef1c52/d9sdvhc-8c9cf641-ff81-437c-9a2d-6ce9a6d4134c.png/v1/fill/w_1024,h_2222,q_75,strp/goten_dbs_by_saodvd-d9sdvhc.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl0sIm9iaiI6W1t7InBhdGgiOiIvZi8zZWI3MGNjYy1lN2FkLTRlMWEtODdmYS1mOTdkZjllZjFjNTIvZDlzZHZoYy04YzljZjY0MS1mZjgxLTQzN2MtOWEyZC02Y2U5YTZkNDEzNGMucG5nIiwid2lkdGgiOiI8PTEwMjQiLCJoZWlnaHQiOiI8PTIyMjIifV1dfQ.Lmz-Ad_aE-gq2KOxSOYa4ebLxr73_GkXJvXN_j5v71Y',
     'about': 'Son Goten (孫悟天 Son Goten) is the youngest son of Goku and his wife Chi-Chi, making him a Saiyan and Earthling hybrid. Goten is Gohan\'s younger brother and Trunks\' best friend.',
     'race': '1/2 Saiyan-1/2 Human-type Earthling',
     'height': '123 cm (4\'0")',
@@ -161,7 +161,7 @@ const characters = {
   },
   'raditz': {
     'name': 'Raditz',
-    'pic': 'https://static.wikia.nocookie.net/dragonball/images/9/93/Raditz_stitch.png/revision/latest/scale-to-width-down/242?cb=20211020204925',
+    'pic': 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2F736x%2F32%2F38%2F73%2F323873c2c34ecd7d5feaa0b15e94023c.jpg&f=1&nofb=1&ipt=defcfcb93661263b3a0500588ab1ec24cf9d0b154f08c04668f9b869e2b4088f&ipo=images',
     'about': 'Raditz (ラディッツ Radittsu), also known as "Raditz the Runt", is a mid-class Saiyan warrior, the biological brother of Goku and the eldest son of Bardock and Gine. He is one of the few remaining full-blooded Saiyans left alive after his homeworld was destroyed. He seeks out Goku in order to recruit him into the Frieza Force to aid in conquering planets. Raditz is the main antagonist of the Raditz Saga, and the first antagonist in Dragon Ball Z.',
     'race': 'Saiyan',
     'height': 'Unknown',
@@ -177,7 +177,7 @@ const characters = {
   },
   'chi-chi': {
     'name': 'Chi-Chi',
-    'pic': 'https://static.wikia.nocookie.net/dragonball/images/e/e2/Chi-Chi_DBZ_Ep_04_001.png/revision/latest/scale-to-width-down/350?cb=20201226004235',
+    'pic': 'https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fvignette3.wikia.nocookie.net%2Fp__%2Fimages%2F8%2F8c%2FRender_Dragon_Ball_Chi-Chi.png%2Frevision%2Flatest%3Fcb%3D20140404174414%26path-prefix%3Dprotagonist&f=1&nofb=1&ipt=40221cfe8b530cc2ced718395724dc42c471c22ed7bb985d6c413196488a4b75&ipo=images',
     'about': 'Chi-Chi (チチ Chichi) is the princess of Fire Mountain and the daughter of the Ox-King. She later marries Goku and becomes the loving mother of Gohan and Goten. She was first introduced as a shy and fearful girl, but later, as she gets older, develops a very tomboyish, tough and fierce personality, which sometimes causes her to have angry outbursts seen several times throughout the series. Despite this, she has shown her love for Goku and their sons many times throughout the series.',
     'race': 'Human-type Earthling',
     'height': '163 cm (5\'4")',
@@ -191,7 +191,7 @@ const characters = {
   },
   'ox king': {
     'name': 'Ox King',
-    'pic': 'https://static.wikia.nocookie.net/dragonball/images/5/5b/Ox-KingPresentsEp05.png/revision/latest/scale-to-width-down/345?cb=20120531182050',
+    'pic': 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.I_pgkfLN1JMxPH9gHz8P4QAAAA%26pid%3DApi&f=1&ipt=71dcb0b03af667e53f5917e8ec2f0ec0d06a544edc652d80fed9adfbf8bc6064&ipo=images',
     'about': 'Ox-King, also referred to as Ox Demon King (牛魔王 Gyūmaō) when his castle was engulfed in flames, is the king of Fire Mountain, as well as the father of Chi-Chi, the father in-law of Goku, the grandfather of Gohan and Goten, and the great grandfather of Pan. He once trained with Goku\'s adoptive grandfather, Grandpa Gohan, under Master Roshi at the Turtle School.',
     'race': 'Human-type Earthling',
     'height': 'Over 4 m',
@@ -205,7 +205,7 @@ const characters = {
   },
   'king kai': {
     'name': 'King Kai, North Kai',
-    'pic': 'https://static.wikia.nocookie.net/dragonball/images/6/61/KingKaiNV.png/revision/latest/scale-to-width-down/350?cb=20200219185209',
+    'pic': 'https://vignette1.wikia.nocookie.net/vsbattles/images/d/d7/Kai-0.png/revision/latest?cb=20151004160916',
     'about': 'King Kai (界王様 Kaiō-sama, lit. "King of Worlds") is the North Kai (北の界王 Kita no Kaiō, lit. "North King of Worlds") and king of Universe 7\'s North Area. A comedy lover and brilliant mentor, he acts as Goku\'s Martial Arts teacher and instructs him in using the Kaio-ken and the Spirit Bomb. He later teaches Krillin, Yamcha, Tien Shinhan, Piccolo, and Chiaotzu and continues to act as a major supporting character throughout the majority of the series.',
     'race': 'Core Person',
     'height': 'Over 4 m',
@@ -219,7 +219,7 @@ const characters = {
   },
   'yamcha': {
     'name': 'Yamcha',
-    'pic': 'https://static.wikia.nocookie.net/dragonball/images/5/59/Yamcha_DB_Episode_138.png/revision/latest/scale-to-width-down/236?cb=20210904213322',
+    'pic': 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.klj0CygivhS2CVZz3c7rFwHaMU%26pid%3DApi&f=1&ipt=17255e43624f6a4576ec7b9159401e753279344e80b5434f7b595ab7c4849ddc&ipo=images',
     'about': 'Yamcha (ヤムチャ Yamucha) is a major deuteragonist in the Dragon Ball manga and in the anime Dragon Ball, and later a supporting tritagonist in Dragon Ball Z and Dragon Ball Super, with a few appearances in Dragon Ball GT. He is a former boyfriend of Bulma and the lifelong best friend of Puar. A former desert bandit, Yamcha was once an enemy of Goku, but quickly reformed and became a friend and ally. Brave, boastful and dependable, Yamcha is a very talented martial artist and one of the most powerful humans on Earth, possessing skills and traits that allow him to fight alongside his fellow Z Fighters when major threats loom. Although he retired by the latter half of Dragon Ball Z, due to being largely outclassed by both his allies (namely the Saiyans) and their enemies, he is always present whenever a new threat approaches, and will occasionally lend a helping hand, thus proving himself to be a powerful ally in his own right',
     'race': 'Human-type Earthling',
     'height': '183 cm (6\'0")',
@@ -238,7 +238,7 @@ const characters = {
   },
   'tien': {
     'name': 'Tien Shinhan',
-    'pic': 'https://static.wikia.nocookie.net/dragonball/images/e/e2/Tien_DBZ_Episode_152.png/revision/latest/scale-to-width-down/276?cb=20221127060114',
+    'pic': 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.pEiJvMzIJDNgqrxYo3Nn-wHaN4%26pid%3DApi&f=1&ipt=0b8cea27b96a449f36a63e6d2cc1ee0feedc0cbb29d204ef8832b4e609af0080&ipo=images',
     'about': 'Tien Shinhan (天津飯 or 天津飯 Tenshinhan) is a disciplined, reclusive and heavily devoted martial artist, and one of the strongest Earthlings within the Dragon Ball universe. He also possesses a few non-human traits due to being descended from the alien Triclops race. He was originally a student of the Crane School who desired revenge against Goku for defeating his mentor, Mercenary Tao, but realized he was on the wrong side with the help of Master Roshi. He battles alongside the other Z Fighters against major threats to the Earth, often courageously engaging enemies far more powerful than himself. However, he spends most of his time training with his lifelong best friend, Chiaotzu. ',
     'race': 'Human-type Earthling / Triclops ',
     'height': '187 cm (6\'2")',
