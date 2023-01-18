@@ -13,7 +13,7 @@
 </div>
 
 <div>
-    <p align="center">View the live site: <a href="https://unofficialdbzapi.cyclic.app">The Unofficial DBZ API</a></p>
+    <p align="center">View the live site: <a href="https://unofficialdbzapi.netlify.app">The Unofficial DBZ API</a></p>
 </div>
 
 ---
@@ -120,7 +120,7 @@ You'll notice I have a .gitignore file blocking node_modules. You'll need those 
 
 Ryan - ryanshort.webdev@gmail.com
 
-Project Link: [Unofficial DBZ API](https://nice-gray-cockroach-garb.cyclic.app/)
+Project Link: [Unofficial DBZ API](https://unofficialdbzapi.netlify.app)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
