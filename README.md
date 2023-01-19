@@ -13,7 +13,7 @@
 </div>
 
 <div>
-    <p align="center">View the live site: <a href="https://unofficialdbzapi.netlify.app">The Unofficial DBZ API</a></p>
+    <p align="center">View the documentation/testing site: <a href="https://unofficialdbzapi.netlify.app">The Unofficial DBZ API</a></p>
 </div>
 
 ---
@@ -43,7 +43,10 @@
 ## About
 
 This is a simple API that sends DBZ character data to client devices. 
-It is not affiliated with DBZ or Toei Animation in any way.
+It is not affiliated with DBZ or Toei Animation in any way, I'm simply a fan of the series.
+
+---
+This API is hosted with Cyclic. The documenation/testing site is hosted with Netlify.
 
 ### Built With
 
