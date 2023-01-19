@@ -43,6 +43,7 @@
 ## About
 
 This is a simple API that sends DBZ character data to client devices. 
+Build as a fun weekend project.
 It is not affiliated with DBZ or Toei Animation in any way, I'm simply a fan of the series.
 
 ---
