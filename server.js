@@ -239,11 +239,11 @@ const characters = {
   'tien': {
     'name': 'Tien Shinhan',
     'pic': 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.pEiJvMzIJDNgqrxYo3Nn-wHaN4%26pid%3DApi&f=1&ipt=0b8cea27b96a449f36a63e6d2cc1ee0feedc0cbb29d204ef8832b4e609af0080&ipo=images',
-    'about': 'Tien Shinhan (天津飯 or 天津飯 Tenshinhan) is a disciplined, reclusive and heavily devoted martial artist, and one of the strongest Earthlings within the Dragon Ball universe. He also possesses a few non-human traits due to being descended from the alien Triclops race. He was originally a student of the Crane School who desired revenge against Goku for defeating his mentor, Mercenary Tao, but realized he was on the wrong side with the help of Master Roshi. He battles alongside the other Z Fighters against major threats to the Earth, often courageously engaging enemies far more powerful than himself. However, he spends most of his time training with his lifelong best friend, Chiaotzu. ',
-    'race': 'Human-type Earthling / Triclops ',
+    'about': 'Tien Shinhan (天津飯 or 天津飯 Tenshinhan) is a disciplined, reclusive and heavily devoted martial artist, and one of the strongest Earthlings within the Dragon Ball universe. He also possesses a few non-human traits due to being descended from the alien Triclops race. He was originally a student of the Crane School who desired revenge against Goku for defeating his mentor, Mercenary Tao, but realized he was on the wrong side with the help of Master Roshi. He battles alongside the other Z Fighters against major threats to the Earth, often courageously engaging enemies far more powerful than himself. However, he spends most of his time training with his lifelong best friend, Chiaotzu.',
+    'race': 'Human-type Earthling / Triclops',
     'height': '187 cm (6\'2")',
     'weight': '75 kg (165 lbs)',
-    'birthDate': 'Age 733[',
+    'birthDate': 'Age 733',
     'deathDates': ['November 3, Age 762',
       'May 8, Age 774',
       'Age 821-889'
@@ -254,6 +254,59 @@ const characters = {
       'Tien-Shin Style Dojo',
       'Team Universe 7',
       'Galactic Patrol'
+    ]
+  },
+  'frieza': {
+    'name': 'Frieza',
+    'pic': 'https://i.pinimg.com/736x/f9/d9/b4/f9d9b4108cb64fb7226e434067d68507.jpg',
+    'about': 'Frieza (フリーザ Furīza) is the main antagonist of the Dragon Ball series. He is the leader of his own imperialist army and emperor of parts of Universe 7. A cruel tyrant, he is feared throughout the universe for his ruthlessness and immense power. He is the descendant of Chilled, the youngest son of King Cold, the younger brother of Cooler and the father of Kuriza. Considered Goku\'s greatest foe and archnemesis, he has made several comebacks since his fight with Goku on Namek, including multiple invasions of Earth. He was chosen to represent Universe 7 as the tenth member of Team Universe 7 for the Tournament of Power as a replacement for Good Buu. This makes him the most recurring villain of the Dragon Ball series. After the events of the Tournament of Power, he was brought back to life as a reward, recovering his title as Emperor of Universe 7.',
+    'race': 'Frieza Race (mutant)',
+    'height': '158 cm (5\'2"; final form)',
+    'weight': 'Unknown',
+    'birthDate': 'Unknown',
+    'deathDates': ['August, Age 764',
+      'Age 767',
+      'Age 776',
+      'Age 778',
+      'Age 779'
+    ],
+    'alliegiance': ['Frieza Force',
+      'Ghost Warriors (formerly)',
+      'Team Universe 7 (formerly)'
+    ]
+  },
+  'cooler': {
+    'name': 'Cooler',
+    'pic': 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftoppng.com%2Fuploads%2Fpreview%2Fview-samegoogleiqdbsaucenao-cooler-dragon-ball-z-cooler-cosplay-11562946211eonwfwp8bv.png&f=1&nofb=1&ipt=6597da7c7951897a4f2f8fdaf4e884f1e10b6c122d09fc30c5d3387d325d4427&ipo=images',
+    'about': 'Cooler (クウラ Kūra, lit. "Coora"[8]) is the eldest son of King Cold and Frieza\'s older brother. The boss of the Cooler Force division, he is just as cruel as the rest of his family and was the first known member of his family to discover a transformation beyond his race\'s true form. Cooler is the titular main antagonist in Dragon Ball Z: Cooler\'s Revenge. An emulation of him known as Meta-Cooler acts as the main antagonist in Dragon Ball Z: The Return of Cooler.',
+    'race': 'Frieza Race (mutant)',
+    'height': '183 cm (6\'0")',
+    'weight': 'Unknown',
+    'birthDate': 'Unknown',
+    'deathDates': ['Between Age 764 and Age 767',
+    'Age 776',
+    'Age 779 (altered timeline)',
+    'Age 790',
+    ],
+    'alliegiance': ['Cooler Force (Cooler\'s Armored Squadron)',
+    'Frieza Clan',
+    'Time Breakers',
+    'Fu\'s group (Metal Cooler Corps) (upon reconstruction into Metal Cooler)',
+    'Team 5'
+    ]
+  },
+  'king cold': {
+    'name': 'King Cold',
+    'pic': 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftoppng.com%2Fuploads%2Fpreview%2Fview-samegoogleiqdbsaucenao-cooler-dragon-ball-z-cooler-cosplay-11562946211eonwfwp8bv.png&f=1&nofb=1&ipt=6597da7c7951897a4f2f8fdaf4e884f1e10b6c122d09fc30c5d3387d325d4427&ipo=images',
+    'about': 'King Cold (コルド大王 Korudo Daiō, lit. "Great King Cold") is the king and former emperor of Universe 7 as well as a shadow member of his family organization, the Frieza Force, leading it when it was known as the Cold Force.[3] He is the father of Cooler and Frieza, as well as the grandfather of Kuriza. King Cold is the secondary antagonist of the Trunks Saga.',
+    'race': 'Frieza Race (hybrid mutant)',
+    'height': 'Unknown',
+    'weight': 'Unknown',
+    'birthDate': 'Unknown',
+    'deathDates': ['August, Age 764',
+      'Age 790'
+    ],
+    'alliegiance': ['Frieza Force'
     ]
   },
   'unknown': 'Unknown character entered.'
