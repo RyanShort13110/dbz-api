@@ -258,7 +258,7 @@ const characters = {
   },
   'frieza': {
     'name': 'Frieza',
-    'pic': 'https://i.pinimg.com/736x/f9/d9/b4/f9d9b4108cb64fb7226e434067d68507.jpg',
+    'pic': 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi7.pngguru.com%2Fpreview%2F1008%2F304%2F957%2Ffrieza-goku-captain-ginyu-vegeta-guldo-freezer.jpg&f=1&nofb=1&ipt=03e8d012c8c7e29443d9989a7685a061ee09fa7077aa18b13c9915812fcb58e1&ipo=images',
     'about': 'Frieza (フリーザ Furīza) is the main antagonist of the Dragon Ball series. He is the leader of his own imperialist army and emperor of parts of Universe 7. A cruel tyrant, he is feared throughout the universe for his ruthlessness and immense power. He is the descendant of Chilled, the youngest son of King Cold, the younger brother of Cooler and the father of Kuriza. Considered Goku\'s greatest foe and archnemesis, he has made several comebacks since his fight with Goku on Namek, including multiple invasions of Earth. He was chosen to represent Universe 7 as the tenth member of Team Universe 7 for the Tournament of Power as a replacement for Good Buu. This makes him the most recurring villain of the Dragon Ball series. After the events of the Tournament of Power, he was brought back to life as a reward, recovering his title as Emperor of Universe 7.',
     'race': 'Frieza Race (mutant)',
     'height': '158 cm (5\'2"; final form)',
