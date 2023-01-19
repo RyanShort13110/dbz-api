@@ -277,7 +277,7 @@ const characters = {
   },
   'cooler': {
     'name': 'Cooler',
-    'pic': 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftoppng.com%2Fuploads%2Fpreview%2Fview-samegoogleiqdbsaucenao-cooler-dragon-ball-z-cooler-cosplay-11562946211eonwfwp8bv.png&f=1&nofb=1&ipt=6597da7c7951897a4f2f8fdaf4e884f1e10b6c122d09fc30c5d3387d325d4427&ipo=images',
+    'pic': 'https://vignette.wikia.nocookie.net/dragonballmultiverse/images/c/c8/CoolerU8.png/revision/latest?cb=20160723211843&path-prefix=es',
     'about': 'Cooler (クウラ Kūra, lit. "Coora"[8]) is the eldest son of King Cold and Frieza\'s older brother. The boss of the Cooler Force division, he is just as cruel as the rest of his family and was the first known member of his family to discover a transformation beyond his race\'s true form. Cooler is the titular main antagonist in Dragon Ball Z: Cooler\'s Revenge. An emulation of him known as Meta-Cooler acts as the main antagonist in Dragon Ball Z: The Return of Cooler.',
     'race': 'Frieza Race (mutant)',
     'height': '183 cm (6\'0")',
@@ -297,7 +297,7 @@ const characters = {
   },
   'king cold': {
     'name': 'King Cold',
-    'pic': 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftoppng.com%2Fuploads%2Fpreview%2Fview-samegoogleiqdbsaucenao-cooler-dragon-ball-z-cooler-cosplay-11562946211eonwfwp8bv.png&f=1&nofb=1&ipt=6597da7c7951897a4f2f8fdaf4e884f1e10b6c122d09fc30c5d3387d325d4427&ipo=images',
+    'pic': 'https://2.bp.blogspot.com/-Y5fJWjEPEQs/TaHyenWqMtI/AAAAAAAAADA/oA2ITVDwduo/w1200-h630-p-k-no-nu/King+Cold.jpg',
     'about': 'King Cold (コルド大王 Korudo Daiō, lit. "Great King Cold") is the king and former emperor of Universe 7 as well as a shadow member of his family organization, the Frieza Force, leading it when it was known as the Cold Force.[3] He is the father of Cooler and Frieza, as well as the grandfather of Kuriza. King Cold is the secondary antagonist of the Trunks Saga.',
     'race': 'Frieza Race (hybrid mutant)',
     'height': 'Unknown',
