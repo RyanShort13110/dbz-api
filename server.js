@@ -278,7 +278,7 @@ const characters = {
   'cooler': {
     'name': 'Cooler',
     'pic': 'https://vignette.wikia.nocookie.net/dragonballmultiverse/images/c/c8/CoolerU8.png/revision/latest?cb=20160723211843&path-prefix=es',
-    'about': 'Cooler (クウラ Kūra, lit. "Coora"[8]) is the eldest son of King Cold and Frieza\'s older brother. The boss of the Cooler Force division, he is just as cruel as the rest of his family and was the first known member of his family to discover a transformation beyond his race\'s true form. Cooler is the titular main antagonist in Dragon Ball Z: Cooler\'s Revenge. An emulation of him known as Meta-Cooler acts as the main antagonist in Dragon Ball Z: The Return of Cooler.',
+    'about': 'Cooler (クウラ Kūra, lit. "Coora") is the eldest son of King Cold and Frieza\'s older brother. The boss of the Cooler Force division, he is just as cruel as the rest of his family and was the first known member of his family to discover a transformation beyond his race\'s true form. Cooler is the titular main antagonist in Dragon Ball Z: Cooler\'s Revenge. An emulation of him known as Meta-Cooler acts as the main antagonist in Dragon Ball Z: The Return of Cooler.',
     'race': 'Frieza Race (mutant)',
     'height': '183 cm (6\'0")',
     'weight': 'Unknown',
@@ -298,7 +298,7 @@ const characters = {
   'king cold': {
     'name': 'King Cold',
     'pic': 'https://2.bp.blogspot.com/-Y5fJWjEPEQs/TaHyenWqMtI/AAAAAAAAADA/oA2ITVDwduo/w1200-h630-p-k-no-nu/King+Cold.jpg',
-    'about': 'King Cold (コルド大王 Korudo Daiō, lit. "Great King Cold") is the king and former emperor of Universe 7 as well as a shadow member of his family organization, the Frieza Force, leading it when it was known as the Cold Force.[3] He is the father of Cooler and Frieza, as well as the grandfather of Kuriza. King Cold is the secondary antagonist of the Trunks Saga.',
+    'about': 'King Cold (コルド大王 Korudo Daiō, lit. "Great King Cold") is the king and former emperor of Universe 7 as well as a shadow member of his family organization, the Frieza Force, leading it when it was known as the Cold Force He is the father of Cooler and Frieza, as well as the grandfather of Kuriza. King Cold is the secondary antagonist of the Trunks Saga.',
     'race': 'Frieza Race (hybrid mutant)',
     'height': 'Unknown',
     'weight': 'Unknown',
@@ -307,6 +307,32 @@ const characters = {
       'Age 790'
     ],
     'alliegiance': ['Frieza Force'
+    ]
+  },
+  'cell': {
+    'name': 'Cell',
+    'pic': 'https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fdbz.space%2Fasset%2Fglobal%2Fcharacter%2Fcard%2F1001720%2Fcard_1001720_character.png&f=1&nofb=1&ipt=7a53733634d0ba21523b5c6f0a51763362054632a8f0abbb28d52d38a1131756&ipo=images',
+    'about': 'Cell (セル Seru) is the ultimate creation of Dr. Gero, designed via cell recombination[1] using the genetics of the greatest fighters that the remote tracking device could find on Earth. The result was a "perfect warrior", possessing numerous favorable genetic traits and special abilities from Goku, Vegeta, Piccolo, Frieza and King Cold. He was one of the few Red Ribbon Androids not directly completed by Dr. Gero, instead being completed by Dr. Gero\'s Supercomputer in an alternate timeline. After achieving perfection, he sought to dominate the world through fear of his incredible power. He is the main antagonist of the overarching Cell Saga.',
+    'race': 'Bio-Android (contains Saiyan, Namekian, Frieza Race, Earthling and several other life-forms\' cells)',
+    'height': '213 cm (7\'0"; perfect form)',
+    'weight': 'Unknown',
+    'birthDate': 'Age 786',
+    'deathDates': ['May 26, Age 767'
+    ],
+    'alliegiance': ['Red Ribbon Army'
+    ]
+  },
+  'broly': {
+    'name': 'Broly',
+    'pic': 'https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.pngmart.com%2Ffiles%2F4%2FDragon-Ball-Broly-PNG-Transparent.png&f=1&nofb=1&ipt=e83a41e06bdfba683dc6e5968ceddf4dafea571afffbd09f5fedd0c17e7e336b&ipo=images',
+    'about': 'Broly (ブロリー Burorī) is a powerful Saiyan mutant and the son of Paragus. He is the latest of Universe 7\'s Legendary Super Saiyans, demonic Saiyan warriors who appear every thousand years. Because of his power level that was said to exceed that of Prince Vegeta\'s, he was stranded on the planet Vampa by King Vegeta, where he was raised by his father until being rescued 41 years later by Cheelai and Lemo of the Frieza Force. He serves as both the main protagonist and misguided central antagonist of Dragon Ball Super: Broly. He is often referred to as Broly: BR in video games and other media to differentiate between him and his counterpart from the Dragon Ball Z movies.',
+    'race': 'Legendary Saiyan',
+    'height': '300 cm (9\'10"; Legendary Super Saiyan)',
+    'weight': 'Unknown',
+    'birthDate': 'Age 732',
+    'deathDates': ['Unknown'
+    ],
+    'alliegiance': ['Frieza Force (formerly)'
     ]
   },
   'unknown': 'Unknown character entered.'
