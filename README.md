@@ -42,7 +42,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About
 
-This is a simple API that sends DBZ character data to client devices from a server hosted on Cyclic. 
+This is a simple API that sends DBZ character data to client devices from a server hosted with Cyclic. 
 
 I built this little API as a fun weekend project. It is not necessarily 'complete' yet, as there are still many characters left to add!
 
