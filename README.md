@@ -42,9 +42,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About
 
-This is a simple API that sends DBZ character data to client devices. 
-Build as a fun weekend project.
-It is not affiliated with DBZ or Toei Animation in any way, I'm simply a fan of the series.
+This is a simple API that sends DBZ character data to client devices from a server hosted on Cyclic. 
+
+I built this little API as a fun weekend project. It is not necessarily 'complete' yet, as there are still many characters left to add!
+
+It is not affiliated with DBZ, Toei Animation, or Funimation in any way, I'm simply a fan of the series.
 
 ---
 This API is hosted with Cyclic. The documenation/testing site is hosted with Netlify.
@@ -54,6 +56,8 @@ This API is hosted with Cyclic. The documenation/testing site is hosted with Net
 * Node.js
 * Express.js
 * JavaScript
+* SCSS
+* CSS
 * HTML
 
 
@@ -110,11 +114,11 @@ You'll notice I have a .gitignore file blocking node_modules. You'll need those 
 
 - [x] Add Changelog
 - [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
+- [ ] Add Transformations & original air dates
 - [ ] Multi-language Support
-    - [ ] Chinese
+    - [ ] Japanese
     - [ ] Spanish
-- [ ] Add simple messaging feature
+- [ ] Possibly add full episodes for certain characters
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -145,7 +149,7 @@ Project Link: [Unofficial DBZ API](https://unofficialdbzapi.netlify.app)
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-Again, this API is NOT affiliated with Toei Animation whatsoever, I'm just a fan.
+Again, this API is NOT affiliated with Toei Animation or Funimation whatsoever, I'm just a fan.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
