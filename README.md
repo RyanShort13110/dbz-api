@@ -4,7 +4,6 @@
 
 <br />
 
-
 <h3 align="center">Unofficial DBZ API</h3>
 
 <div align="center">
