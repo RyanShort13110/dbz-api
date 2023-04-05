@@ -38,6 +38,7 @@
 </details>
 
 
+
 <!-- ABOUT THE PROJECT -->
 ## About
 
@@ -122,6 +123,7 @@ You'll notice I have a .gitignore file blocking node_modules. You'll need those 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
+
 <!-- CONTACT -->
 ## Contact
 
@@ -165,3 +167,4 @@ Again, this API is NOT affiliated with Toei Animation or Funimation whatsoever, 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
+
