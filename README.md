@@ -92,7 +92,7 @@ If you want to work on the code or make any changes, fork the code to get starte
 You'll notice I have a .gitignore file blocking node_modules. You'll need those on your end to make any changes.
 
 
-1. Clone the repo
+1. Fork & Clone the repo
    ```
    git clone https://github.com/RyanShort13110/dbz-api
    ```
