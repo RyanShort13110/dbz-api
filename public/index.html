@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Unofficial DBZ API</title>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, user-scalable=no"
+    />
+    <link rel="stylesheet" href="assets/css/main.css" />
+  </head>
+  <body class="is-preload">
+    <!-- Header -->
+    <header id="header">
+      <h1>The Unofficial DBZ API</h1>
+      <blockquote id="fade-in" class="hidden">
+        Let me ask you... Does a machine like yourself ever experience fear?
+        <br />
+        <br />
+        - Vegeta
+      </blockquote>
+      <p>
+        This API shows info on DBZ characters like height & weight, dates for
+        birth & death, short descriptions and more.
+      </p>
+    </header>
+
+    <!-- Test Input -->
+    <section id="test-sec">
+      <p>
+        <strong
+          >Test the API here. Enter a characters name, click the button, view
+          character data.
+        </strong>
+      </p>
+      <div class="test-input">
+        <input
+          id="character-request"
+          placeholder="Krillin"
+          type="text"
+          class="charactersName"
+        />
+        <button>Get Character Info</button>
+      </div>
+      <div id="charTestInfo">
+        <h3 id="charName"></h3>
+        <img id="charImg" src="" />
+        <p id="charAbout"></p>
+      </div>
+    </section>
+
+    <section id="quickDocs">
+      <h2>Quick Docs</h2>
+      <p> 
+        Use url:
+        <code>https://unofficialdbzapi.cyclic.app/api/character</code>
+      </p>
+      <p>
+        Change <code>character</code> to whichever character you want to
+        view.
+      </p>
+      <p>
+        <br />
+        Example using a fetch:
+        <pre>
+          <code class="code-examples">
+            fetch(`https://unofficialdbzapi.cyclic.app/api/krillin`)
+              .then(res => res.json())
+              .then(data => {
+                // do stuff with data here
+              })
+          </code>
+        </pre>
+      </p>
+      <p>No API key is required, simply plug and play!</p>
+    </section>
+
+    <!-- Footer -->
+    <footer id="footer">
+      <ul class="icons">
+        <li>
+          <span>Github: </span>
+          <a
+            target="_blank"
+            href="https://github.com/RyanShort13110/dbz-api"
+            class="icon brands fa-github"
+            ><span class="label">GitHub</span></a
+          >
+        </li>
+      </ul>
+      <ul class="copyright">
+        <li>Built by: <a href="https://ryanshort.dev">ryan</a></li>
+        </li>
+      </ul>
+      <p>
+        This site is in no way affiliated with Dragon Ball Z, Funimation, or Toei Animation, I'm just a fan plz don't sue =)
+      </p>
+    </footer>
+
+    <!-- Scripts -->
+    <script src="assets/js/main.js"></script>
+  </body>
+</html>
