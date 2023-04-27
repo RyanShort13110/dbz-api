@@ -65,16 +65,16 @@
         <br />
         Example using a fetch:
         <pre><code class="code-examples">
-            // get character from an input
-            let character = document.querySelector('input').value
+// get character from an input
+let character = document.querySelector('input').value
 
-            // plug that character into API request
-            fetch(`https://unofficialdbzapi.cyclic.app/api/${character}`)
-              .then(res => res.json())
-              .then(data => {
-                // do stuff with character data here
-              })
-          </code></pre>
+// plug that character into API request
+fetch(`https://unofficialdbzapi.cyclic.app/api/${character}`)
+  .then(res => res.json())
+  .then(data => {
+    // do stuff with character data here
+  })
+        </code></pre>
       </p>
       <p>No API key is required, simply plug and play!</p>
     </section>
