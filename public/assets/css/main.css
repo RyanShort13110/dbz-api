@@ -85,7 +85,7 @@ body {
   -ms-justify-content: center;
   justify-content: center;
   background-color: #000;
-  padding: 6em 4em 4em 4em; }
+  padding: 6em 2em 4em 2em; } /* change body padding here */
   body.is-preload *, body.is-preload *:before, body.is-preload *:after {
     -moz-animation: none !important;
     -webkit-animation: none !important;
@@ -305,12 +305,11 @@ sup {
   top: -0.5em; }
 
 blockquote {
-  margin-top: 15px;
-  border-left: solid 6px rgba(255, 255, 255, 0.25);
-  border-radius: 8px;
+  border-left: solid 4px rgba(255, 255, 255, 0.25);
+  border-radius: 4px;
   font-style: italic;
   font-size: 16px;
-  margin: 0 0 2em 0;
+  margin:20px 0 2em 0;
   padding: 0.5em 0 0.5em 2em; }
 
 code {
@@ -318,7 +317,6 @@ code {
   border-radius: 6px;
   border: solid 2px rgba(255, 255, 255, 0.35);
   font-family: "Courier New", monospace;
-  width: 69%;
   font-size: 0.9em;
   margin: 0 0.25em;
   padding: 0.25em 0.65em; }
@@ -329,14 +327,14 @@ pre {
   font-size: 0.9em;
   margin: 0 0 2em 0; }
   pre code {
-    display: block;
+    display: inline;
     line-height: 1.75em;
     padding: 1em 1.5em;
     overflow-x: auto; }
 
 
 .code-examples{
-  margin-top: -2rem;
+  display: inline-block;
 }
 
 hr {
@@ -818,7 +816,6 @@ button,
 
 @media screen and (max-width: 736px) {
   .code-examples{
-    width: 100%;
     margin-top: -1.5rem;
   }
   #header h1 {

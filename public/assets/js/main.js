@@ -30,10 +30,11 @@
 
 					// Images (in the format of 'url': 'alignment').
 						images: {
-							'images/fighters.jpg': 'center',
-							'images/ss3Goku.jpg': 'center',
-							'images/dbzPic3.jpg': 'center',
-							'images/dbzPic4.jpg': 'center'
+							'images/theGang.jpg': 'center',
+							'images/spiritBomb.jpg': 'center',
+							'images/cell.jpg': 'center',
+							'images/theGang2.jpg': 'center',
+							'images/symbol.jpg': 'center'
 						},
 
 					// Delay.

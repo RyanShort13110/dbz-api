@@ -29,8 +29,7 @@
     <section id="test-sec">
       <p>
         <strong
-          >Test the API here. Enter a characters name, click the button, view
-          character data.
+          >Test the API here. Enter a characters name, click the button, view that sweet data.
         </strong>
       </p>
       <div class="test-input">
@@ -53,24 +52,29 @@
       <h2>Quick Docs</h2>
       <p> 
         Use url:
-        <code>https://unofficialdbzapi.cyclic.app/api/character</code>
+        <pre><code>https://unofficialdbzapi.cyclic.app/api/*character*</code></pre>
       </p>
       <p>
-        Change <code>character</code> to whichever character you want to
-        view.
+        Change <code>*character*</code> to search for different characters
+      </p>
+      <p> 
+        For a quick test of the API you can ask for individual characters:
+        <pre><code>https://unofficialdbzapi.cyclic.app/api/krillin</code></pre>
       </p>
       <p>
         <br />
         Example using a fetch:
-        <pre>
-          <code class="code-examples">
-            fetch(`https://unofficialdbzapi.cyclic.app/api/krillin`)
+        <pre><code class="code-examples">
+            // get character from an input
+            let character = document.querySelector('input').value
+
+            // plug that character into API request
+            fetch(`https://unofficialdbzapi.cyclic.app/api/${character}`)
               .then(res => res.json())
               .then(data => {
-                // do stuff with data here
+                // do stuff with character data here
               })
-          </code>
-        </pre>
+          </code></pre>
       </p>
       <p>No API key is required, simply plug and play!</p>
     </section>

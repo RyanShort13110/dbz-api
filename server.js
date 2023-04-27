@@ -7,6 +7,10 @@ app.use(express.static('public'))
 
 app.use(cors())
 
+/*
+Giant character object. Kinda ridiculous right? 🤷‍♂️ I will eventually store these in a database, but it works for now...
+*/
+
 const characters = {
   'krillin': {
     'name': 'Krillin',
@@ -367,6 +371,6 @@ app.get('/api/:character', (req, res) => { // listen for specific character name
   }
 })
 
-app.listen(process.env.PORT || PORT, () => { // listen on predefined cyclic port or our own port, preferrably cyclic
+app.listen(process.env.PORT || PORT, () => { // listen on predefined cyclic port or our own port, preferrably cyclic ofc
   console.log(`Server listening on port ${PORT}`)
 })
