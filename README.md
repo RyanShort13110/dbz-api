@@ -12,7 +12,7 @@
 </div>
 
 <div>
-    <p align="center">View the documentation/testing site: <a href="https://unofficialdbzapi.netlify.app">The Unofficial DBZ API</a></p>
+    <p align="center">View the documentation/testing site: <a href="https://unofficialdbzapi.cyclic.app/">The Unofficial DBZ API</a></p>
 </div>
 
 ---
@@ -49,7 +49,7 @@ I built this little API as a fun weekend project. It is not necessarily 'complet
 It is not affiliated with DBZ, Toei Animation, or Funimation in any way, I'm simply a fan of the series.
 
 ---
-This API is hosted with Cyclic. The documenation/testing site is hosted with Netlify.
+This API is hosted with Cyclic.
 
 ### Built With
 
@@ -129,7 +129,7 @@ You'll notice I have a .gitignore file blocking node_modules. You'll need those 
 
 Ryan - ryanshort.webdev@gmail.com
 
-Project Link: [Unofficial DBZ API](https://unofficialdbzapi.netlify.app)
+Project Link: [Unofficial DBZ API](https://unofficialdbzapi.cyclic.app/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
