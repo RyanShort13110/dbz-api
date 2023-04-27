@@ -250,7 +250,7 @@ const characters = {
   },
   'tien': {
     'name': 'Tien Shinhan',
-    'pic': 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.pEiJvMzIJDNgqrxYo3Nn-wHaN4%26pid%3DApi&f=1&ipt=0b8cea27b96a449f36a63e6d2cc1ee0feedc0cbb29d204ef8832b4e609af0080&ipo=images',
+    'pic': 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.A_PzqCt0am1l_ms9ob3ZkAHaQ4%26pid%3DApi&f=1&ipt=85ce8e898c44dff39b732476f032bc883b3b4def5d98c9345bb3ce77aeb66466&ipo=images',
     'about': 'Tien Shinhan (天津飯 or 天津飯 Tenshinhan) is a disciplined, reclusive and heavily devoted martial artist, and one of the strongest Earthlings within the Dragon Ball universe. He also possesses a few non-human traits due to being descended from the alien Triclops race. He was originally a student of the Crane School who desired revenge against Goku for defeating his mentor, Mercenary Tao, but realized he was on the wrong side with the help of Master Roshi. He battles alongside the other Z Fighters against major threats to the Earth, often courageously engaging enemies far more powerful than himself. However, he spends most of his time training with his lifelong best friend, Chiaotzu.',
     'race': 'Human-type Earthling / Triclops',
     'height': '187 cm (6\'2")',
