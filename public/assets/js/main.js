@@ -54,13 +54,13 @@
 	for (k in settings.images) {
 
 		// Create BG.
-			$bg = document.createElement('div');
-				$bg.style.backgroundImage = 'url("' + k + '")';
-				$bg.style.backgroundPosition = settings.images[k];
-				$wrapper.appendChild($bg);
+		$bg = document.createElement('div');
+			$bg.style.backgroundImage = 'url("' + k + '")';
+			$bg.style.backgroundPosition = settings.images[k];
+			$wrapper.appendChild($bg);
 
-		// Add it to array.
-			$bgs.push($bg);
+	// Add it to array.
+		$bgs.push($bg);
 	}
 
 // Main loop.
