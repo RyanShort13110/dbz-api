@@ -102,8 +102,10 @@ body {
 
 
 /* 
-PROBLEM IS LOCATED BELOW
-Issue on mobile when scrolling over the site. Scrolling causes the background image to resize for some reason, not happening on desktop.
+Problem is located between here and the 'a' selector
+Issue on mobile when scrolling over the site. 
+Scrolling causes the background to resize for some reason, not happening on desktop.
+Needs further examination.
 */
 
 /* BG */

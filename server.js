@@ -363,14 +363,14 @@ app.get('/', (req, res) => {
 })
 
 app.get('/api/:character', (req, res) => { // listen for specific character names
-  const characterName = req.params.character.toLowerCase() //ensure lower case
-  if(characters[characterName]){ // if characters name is in the big character obj
-    res.json(characters[characterName]) // respond with that characters obj
+  const characterName = req.params.character.toLowerCase()
+  if(characters[characterName]){
+    res.json(characters[characterName])
   }else{
-    res.json(characters['unknown']) // otherwise show unknown
+    res.json(characters['unknown'])
   }
 })
 
-app.listen(process.env.PORT || PORT, () => { // listen on predefined cyclic port or our own port, preferrably cyclic ofc
+app.listen(process.env.PORT || PORT, () => { // listen on cyclic port or our port, preferrably cyclic ofc
   console.log(`Server listening on port ${PORT}`)
 })
