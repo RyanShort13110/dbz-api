@@ -104,7 +104,12 @@ You'll notice I have a .gitignore file blocking node_modules. You'll need those 
     ```
    npm install express --save
    ```
-
+   
+4. You'll want to have cors installed as well
+    ```
+    npm install cors --save
+    ```
+    
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
