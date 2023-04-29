@@ -415,6 +415,18 @@ header h6 + p {
   height: 300px;
 }
 
+.hidden{
+  display: none;
+}
+
+.test-input{
+  margin-bottom: 50px;
+}
+
+.charAbout{
+  margin-bottom: 50px;
+}
+
 /* List */
 ol {
   list-style: decimal;

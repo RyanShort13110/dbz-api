@@ -8,6 +8,7 @@
       content="width=device-width, initial-scale=1, user-scalable=no"
     />
     <link rel="stylesheet" href="assets/css/main.css" />
+    <link rel="shortcut icon" href="./images/dragonball-icon.ico" type="image/x-icon">
   </head>
   <body class="is-preload">
     <!-- Header -->
@@ -41,7 +42,7 @@
         />
         <button>Get Character Info</button>
       </div>
-      <div id="charTestInfo">
+      <div id="charTestInfo" class="hidden">
         <h3 id="charName"></h3>
         <img id="charImg" src="" />
         <p id="charAbout"></p>
@@ -72,7 +73,7 @@ let character = document.querySelector('input').value
 fetch(`https://unofficialdbzapi.cyclic.app/api/${character}`)
   .then(res => res.json())
   .then(data => {
-    // do stuff with character data here
+    // use character data
   })
         </code></pre>
       </p>

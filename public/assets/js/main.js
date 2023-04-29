@@ -31,10 +31,10 @@
 		// Images (in the format of 'url': 'alignment').
 		images: {
 			'images/theGang.jpg': 'center',
-			'images/spiritBomb.jpg': 'center',
 			'images/cell.jpg': 'center',
+			'images/spiritBomb.jpg': 'center',
 			'images/theGang2.jpg': 'center',
-			'images/symbol.jpg': 'center'
+			'images/new.jpg': 'center'
 		},
 
 		// Delay.
@@ -106,6 +106,12 @@ function getCharacter(){ // Client side fetch for testin'.
   let charName = document.querySelector('#charName')
   let charAbout = document.querySelector('#charAbout')
   let charImg = document.querySelector('#charImg')
+
+	// hide the containing element for character until character is requested
+	if(document.querySelector('#charTestInfo').textContent != ''){
+		document.querySelector('#charTestInfo').classList.remove('hidden')
+	}
+
   fetch(`https://unofficialdbzapi.cyclic.app/api/${askedForChar}`)
   .then(res => res.json()) // Gimme json.
   .then(data => {
