@@ -34,7 +34,7 @@
 			'images/cell.jpg': 'center',
 			'images/spiritBomb.jpg': 'center',
 			'images/theGang2.jpg': 'center',
-			'images/new.jpg': 'center'
+			'images/gohan.jpg': 'center'
 		},
 
 		// Delay.
