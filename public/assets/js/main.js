@@ -102,7 +102,7 @@
 document.querySelector('button').addEventListener('click', getCharacter)
 
 function getCharacter(){ // Client side fetch for testin'.
-  let askedForChar = document.querySelector('#character-request').value.toLowerCase().replace(/[^a-z\s]/g, '')
+  let askedForChar = document.querySelector('#character-request').value.toLowerCase().replace(/[^a-z\s]/g, '') // input sanatizing
   let charName = document.querySelector('#charName')
   let charAbout = document.querySelector('#charAbout')
   let charImg = document.querySelector('#charImg')
@@ -113,7 +113,7 @@ function getCharacter(){ // Client side fetch for testin'.
 	}
 
   fetch(`https://unofficialdbzapi.cyclic.app/api/${askedForChar}`)
-  .then(res => res.json()) // Gimme json.
+  .then(res => res.json())
   .then(data => {
     console.log(data)
     charName.textContent = data.name
