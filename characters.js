@@ -75,7 +75,7 @@ const characters = {
   },
   'trunks': {
     'name': 'Trunks Brief',
-    'pic': 'hhttps://vignette4.wikia.nocookie.net/dragon-ball-legendary-dbl/images/4/49/Super_Trunks_Render.png/revision/latest?cb=20141026143947&path-prefix=es',
+    'pic': 'https://vignette4.wikia.nocookie.net/dragon-ball-legendary-dbl/images/4/49/Super_Trunks_Render.png/revision/latest?cb=20141026143947&path-prefix=es',
     'about': 'Trunks (トランクス Torankusu) is a Human-type Earthling/Saiyan hybrid, the firstborn child and only son of Vegeta and Bulma and the older brother of Bulla.',
     'transformationFirstAppearence': ['Super Saiyan : Dragon Ball Z Episode 120 "Another Super Saiyan?"',
     'Super Saiyan 2 : Dragon Ball Super Episode 49 "A Message From the Future - The Incursion of Goku Black!."',
