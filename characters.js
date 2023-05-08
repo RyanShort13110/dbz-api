@@ -180,7 +180,7 @@ const characters = {
       'Dragon Team'
     ]
   },
-  'chi-chi': {
+  'chi chi': {
     'name': 'Chi-Chi',
     'pic': 'https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fvignette3.wikia.nocookie.net%2Fp__%2Fimages%2F8%2F8c%2FRender_Dragon_Ball_Chi-Chi.png%2Frevision%2Flatest%3Fcb%3D20140404174414%26path-prefix%3Dprotagonist&f=1&nofb=1&ipt=40221cfe8b530cc2ced718395724dc42c471c22ed7bb985d6c413196488a4b75&ipo=images',
     'about': 'Chi-Chi (チチ Chichi) is the princess of Fire Mountain and the daughter of the Ox-King. She later marries Goku and becomes the loving mother of Gohan and Goten. She was first introduced as a shy and fearful girl, but later, as she gets older, develops a very tomboyish, tough and fierce personality, which sometimes causes her to have angry outbursts seen several times throughout the series. Despite this, she has shown her love for Goku and their sons many times throughout the series.',
