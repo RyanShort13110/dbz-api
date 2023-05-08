@@ -96,7 +96,7 @@ const characters = {
   },
   'bulma': {
     'name': 'Bulma Brief',
-    'pic': 'https://vignette.wikia.nocookie.net/dragonballfanon/images/d/d6/AnotherPathBulma.png/revision/latest?cb=20190407144610',
+    'pic': 'https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/84dc13b7-a2e7-4b45-83ec-311e72e82900/dchj94o-2c80e424-85a2-452b-9f53-be78a3cfd039.png/v1/fill/w_290,h_920,strp/bulma___buu_saga_render_4_by_maxiuchiha22_dchj94o-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTIwIiwicGF0aCI6IlwvZlwvODRkYzEzYjctYTJlNy00YjQ1LTgzZWMtMzExZTcyZTgyOTAwXC9kY2hqOTRvLTJjODBlNDI0LTg1YTItNDUyYi05ZjUzLWJlNzhhM2NmZDAzOS5wbmciLCJ3aWR0aCI6Ijw9MjkwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.W1OCGUdMNrLrRkRAz75nDAE8A52LE2cW2Vfpgg0Y-o4',
     'about': 'Bulma (ブルマ Buruma, lit. "Blooma") is a brilliant scientist and the second daughter of Capsule Corporation\'s founder Dr. Brief and his wife Bikini, the younger sister of Tights, and is Goku\'s first friend. She used to be the girlfriend of Yamcha, but moved on (while remaining friends with him) and, eventually, became the wife of Vegeta, as well as the mother of Trunks and Bulla. A technological and scientific genius who can turn her talents to almost any field and understand alien technology near-effortlessly, her inventions, and the resources of Capsule Corporation, have been invaluable to Goku and the rest of the Dragon Team many times. Her most notable invention is the Dragon Radar. Bulma is the most significant female character in the series. Aside from Goku, Bulma is the single longest-running character in the entire meta-series, being introduced in the first Dragon Ball chapter and episode and maintaining a prominent role until the end of the series.',
     'race': 'Human-type Earthling',
     'height': '165 cm (5\'5")',
@@ -113,7 +113,7 @@ const characters = {
   },
   'piccolo': {
     'name': 'Piccolo',
-    'pic': 'https://img1.wikia.nocookie.net/__cb20111124052312/dragonballupdates/images/3/34/PiccoloAndroidsSaga.png',
+    'pic': 'https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/84dc13b7-a2e7-4b45-83ec-311e72e82900/dcmmm29-3eab2d81-13ad-404e-8317-0d9223ff9041.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvODRkYzEzYjctYTJlNy00YjQ1LTgzZWMtMzExZTcyZTgyOTAwXC9kY21tbTI5LTNlYWIyZDgxLTEzYWQtNDA0ZS04MzE3LTBkOTIyM2ZmOTA0MS5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.arzyv8gAAXWvgicWSZ9TjRtMsQ1c3ZvzDkoyplU7w00',
     'about': 'Piccolo Jr. (ピッコロ・ジュニア Pikkoro Junia, lit. "Piccolo Junior"), usually just called Piccolo and also known as Ma Junior (マジュニア Ma Junia), is a Namekian and also the final child and reincarnation of King Piccolo, later becoming the reunification of the Nameless Namekian after fusing with Kami, at which point he was once referred to as Kamiccolo by Goku. According to Grand Elder Guru, Piccolo, along with Kami and King Piccolo, are part of the Dragon Clan, who were the original creators of the Dragon Balls. A wise and cunning warrior, he was the main antagonist in the final saga of Dragon Ball, the Piccolo Jr. Saga, and was thus a ruthless enemy of Goku. However, starting with the first saga of Dragon Ball Z, the Raditz Saga, he began to lose all villainous traits, and when he started training Goku\'s son Gohan during the Vegeta Saga which led to the two developing a strong bond with each other, he became a permanent member of the Dragon Team and eventually one of Earth\'s greatest heroes.',
     'race': 'Demonic Namekian',
     'height': '226 cm (7\'5")',
@@ -166,7 +166,7 @@ const characters = {
   },
   'raditz': {
     'name': 'Raditz',
-    'pic': 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2F736x%2F32%2F38%2F73%2F323873c2c34ecd7d5feaa0b15e94023c.jpg&f=1&nofb=1&ipt=defcfcb93661263b3a0500588ab1ec24cf9d0b154f08c04668f9b869e2b4088f&ipo=images',
+    'pic': 'https://i.pinimg.com/originals/eb/af/ae/ebafae3ec5e54849553b7a975738f6b9.png',
     'about': 'Raditz (ラディッツ Radittsu), also known as "Raditz the Runt", is a mid-class Saiyan warrior, the biological brother of Goku and the eldest son of Bardock and Gine. He is one of the few remaining full-blooded Saiyans left alive after his homeworld was destroyed. He seeks out Goku in order to recruit him into the Frieza Force to aid in conquering planets. Raditz is the main antagonist of the Raditz Saga, and the first antagonist in Dragon Ball Z.',
     'race': 'Saiyan',
     'height': 'Unknown',
@@ -263,7 +263,7 @@ const characters = {
   },
   'frieza': {
     'name': 'Frieza',
-    'pic': 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi7.pngguru.com%2Fpreview%2F1008%2F304%2F957%2Ffrieza-goku-captain-ginyu-vegeta-guldo-freezer.jpg&f=1&nofb=1&ipt=03e8d012c8c7e29443d9989a7685a061ee09fa7077aa18b13c9915812fcb58e1&ipo=images',
+    'pic': 'https://img1.wikia.nocookie.net/__cb20130723111916/villains/images/5/5d/Frieza.png',
     'about': 'Frieza (フリーザ Furīza) is the main antagonist of the Dragon Ball series. He is the leader of his own imperialist army and emperor of parts of Universe 7. A cruel tyrant, he is feared throughout the universe for his ruthlessness and immense power. He is the descendant of Chilled, the youngest son of King Cold, the younger brother of Cooler and the father of Kuriza. Considered Goku\'s greatest foe and archnemesis, he has made several comebacks since his fight with Goku on Namek, including multiple invasions of Earth. He was chosen to represent Universe 7 as the tenth member of Team Universe 7 for the Tournament of Power as a replacement for Good Buu. This makes him the most recurring villain of the Dragon Ball series. After the events of the Tournament of Power, he was brought back to life as a reward, recovering his title as Emperor of Universe 7.',
     'race': 'Frieza Race (mutant)',
     'height': '158 cm (5\'2"; final form)',
