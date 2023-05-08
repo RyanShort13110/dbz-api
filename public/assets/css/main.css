@@ -314,7 +314,7 @@ blockquote {
   margin:20px 0 2em 0;
   padding: 0.5em 0 0.5em 2em; }
 
-code {
+code, #data-example {
   background: rgba(66, 66, 66, 0.5);
   border-radius: 6px;
   border: solid 2px rgba(255, 255, 255, 0.35);
@@ -335,7 +335,7 @@ pre {
     overflow-x: auto; }
 
 
-.code-examples{
+.code-examples, #data-example{
   display: inline-block;
 }
 
