@@ -50,7 +50,7 @@ const characters = {
   },
   'vegeta': {
     'name': 'Vegeta',
-    'pic': 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.YXEDX1Y-a9RsaBML3wdOgQHaLP%26pid%3DApi&f=1&ipt=7ff3a16ac1c0b5231c6e3b6fb5246bf1921f5cb1d76d3dcccac6ba407a833a47&ipo=images',
+    'pic': 'https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ab60cab7-0751-4261-a1f6-268e74c937e3/db5dj5o-e99ae738-fc89-4265-9baf-c2d49488e288.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sIm9iaiI6W1t7InBhdGgiOiIvZi9hYjYwY2FiNy0wNzUxLTQyNjEtYTFmNi0yNjhlNzRjOTM3ZTMvZGI1ZGo1by1lOTlhZTczOC1mYzg5LTQyNjUtOWJhZi1jMmQ0OTQ4OGUyODgucG5nIn1dXX0.DkihVcCE2PJsUitzw8G-GOg0UpFkgzb6sUum6szv0NU',
     'about': 'Vegeta (ベジータ Bejīta), more specifically Vegeta IV (ベジータ四世 Bejīta Yonsei) recognized as Prince Vegeta (ベジータ王子 Bejīta Ōji) is the prince of the fallen Saiyan race and the husband of Bulma, the father of Trunks and Bulla, the eldest son of King Vegeta, as well as one of the main characters of the Dragon Ball series. Regal, egotistical, and full of pride, Vegeta was once a ruthless, cold-blooded warrior and outright killer, but later abandons his role in the Frieza Force, instead opting to remain and live on Earth. He would later repeatedly fight alongside Universe 7\'s most powerful warriors in order to protect Earth and his family, as well as to surpass Goku in power. Vegeta\'s character development is the most praised and one of the biggest in the series. He started off serving as the main antagonist of the Vegeta Saga, but then as an anti-heroic tritagonist throughout the rest of Dragon Ball Z. After the Majin Buu Saga Vegeta would evolve into a hero as the main deuteragonist/secondary protagonist of the sequel series, Dragon Ball Super.',
     'transformationFirstAppearence': ['Super Saiyan : Dragon Ball Z Episode 129 "Upgrade to Super Saiyan."',
     'Super Saiyan 2 : Dragon Ball Z Kai Episode 121 "I am the Strongest! The Clash of Goku vs. Vegeta."',
@@ -75,7 +75,7 @@ const characters = {
   },
   'trunks': {
     'name': 'Trunks Brief',
-    'pic': 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.k16bAHpriloOa5UzmSSblAHaJz%26pid%3DApi&f=1&ipt=a81efcab16e415c6db5db4e19b8afd665fa5b98054f1af36e3104b3ffb369190&ipo=images',
+    'pic': 'hhttps://vignette4.wikia.nocookie.net/dragon-ball-legendary-dbl/images/4/49/Super_Trunks_Render.png/revision/latest?cb=20141026143947&path-prefix=es',
     'about': 'Trunks (トランクス Torankusu) is a Human-type Earthling/Saiyan hybrid, the firstborn child and only son of Vegeta and Bulma and the older brother of Bulla.',
     'transformationFirstAppearence': ['Super Saiyan : Dragon Ball Z Episode 120 "Another Super Saiyan?"',
     'Super Saiyan 2 : Dragon Ball Super Episode 49 "A Message From the Future - The Incursion of Goku Black!."',
@@ -133,7 +133,7 @@ const characters = {
   },
   'gohan': {
     'name': 'Gohan',
-    'pic': 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.A_bhk9VsWoRJPLdJrrzHXAHaKX%26pid%3DApi&f=1&ipt=c6867b009ed6719a7ac022ed819c07290dc512b56b00a8edcea9218cde7e4fd9&ipo=images',
+    'pic': 'https://vignette2.wikia.nocookie.net/dragonballfanon/images/6/6c/Gohan.png/revision/latest?cb=20170103143050',
     'about': 'Son Gohan (孫悟飯 Son Gohan) is a half-breed Saiyan and one of the most prominent characters in the Dragon Ball series. He is the elder son of the series\' primary protagonist Goku and his wife Chi-Chi, the older brother of Goten, the husband of Videl and father to Pan. He is named after Goku\'s adoptive grandfather, Gohan. Unlike his father, Gohan lacks a passion for fighting (although, he does possess a strong power within him) and prefers to do so only when his loved ones are threatened. Nevertheless, Gohan fights alongside the Dragon Team in the defense of Earth for much of his life.',
     'race': '1/2 Saiyan-1/2 Human-type Earthling',
     'height': '176 cm (5\'9")',
@@ -196,7 +196,7 @@ const characters = {
   },
   'ox king': {
     'name': 'Ox King',
-    'pic': 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.I_pgkfLN1JMxPH9gHz8P4QAAAA%26pid%3DApi&f=1&ipt=71dcb0b03af667e53f5917e8ec2f0ec0d06a544edc652d80fed9adfbf8bc6064&ipo=images',
+    'pic': 'https://vignette.wikia.nocookie.net/doblaje/images/7/7f/OxSatanDokkanBattle.png/revision/latest?cb=20180815005155&path-prefix=es',
     'about': 'Ox-King, also referred to as Ox Demon King (牛魔王 Gyūmaō) when his castle was engulfed in flames, is the king of Fire Mountain, as well as the father of Chi-Chi, the father in-law of Goku, the grandfather of Gohan and Goten, and the great grandfather of Pan. He once trained with Goku\'s adoptive grandfather, Grandpa Gohan, under Master Roshi at the Turtle School.',
     'race': 'Human-type Earthling',
     'height': 'Over 4 m',
@@ -224,7 +224,7 @@ const characters = {
   },
   'yamcha': {
     'name': 'Yamcha',
-    'pic': 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.klj0CygivhS2CVZz3c7rFwHaMU%26pid%3DApi&f=1&ipt=17255e43624f6a4576ec7b9159401e753279344e80b5434f7b595ab7c4849ddc&ipo=images',
+    'pic': 'https://vignette.wikia.nocookie.net/dragon-ball-legendary-dbl/images/b/b4/YAMCHA.png/revision/latest?cb=20140714132719&path-prefix=es',
     'about': 'Yamcha (ヤムチャ Yamucha) is a major deuteragonist in the Dragon Ball manga and in the anime Dragon Ball, and later a supporting tritagonist in Dragon Ball Z and Dragon Ball Super, with a few appearances in Dragon Ball GT. He is a former boyfriend of Bulma and the lifelong best friend of Puar. A former desert bandit, Yamcha was once an enemy of Goku, but quickly reformed and became a friend and ally. Brave, boastful and dependable, Yamcha is a very talented martial artist and one of the most powerful humans on Earth, possessing skills and traits that allow him to fight alongside his fellow Z Fighters when major threats loom. Although he retired by the latter half of Dragon Ball Z, due to being largely outclassed by both his allies (namely the Saiyans) and their enemies, he is always present whenever a new threat approaches, and will occasionally lend a helping hand, thus proving himself to be a powerful ally in his own right',
     'race': 'Human-type Earthling',
     'height': '183 cm (6\'0")',
@@ -243,7 +243,7 @@ const characters = {
   },
   'tien': {
     'name': 'Tien Shinhan',
-    'pic': 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.A_PzqCt0am1l_ms9ob3ZkAHaQ4%26pid%3DApi&f=1&ipt=85ce8e898c44dff39b732476f032bc883b3b4def5d98c9345bb3ce77aeb66466&ipo=images',
+    'pic': 'https://vignette.wikia.nocookie.net/dragonball/images/e/e3/Ten_shin_han_by_maffo1989-d68ymq5.png/revision/latest?cb=20140702202416&path-prefix=nl',
     'about': 'Tien Shinhan (天津飯 or 天津飯 Tenshinhan) is a disciplined, reclusive and heavily devoted martial artist, and one of the strongest Earthlings within the Dragon Ball universe. He also possesses a few non-human traits due to being descended from the alien Triclops race. He was originally a student of the Crane School who desired revenge against Goku for defeating his mentor, Mercenary Tao, but realized he was on the wrong side with the help of Master Roshi. He battles alongside the other Z Fighters against major threats to the Earth, often courageously engaging enemies far more powerful than himself. However, he spends most of his time training with his lifelong best friend, Chiaotzu.',
     'race': 'Human-type Earthling / Triclops',
     'height': '187 cm (6\'2")',
@@ -338,6 +338,88 @@ const characters = {
     'deathDates': ['Unknown'
     ],
     'alliegiance': ['Frieza Force (formerly)'
+    ]
+  },
+  'vegito': {
+    'name': 'Vegito',
+    'pic': 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Forig00.deviantart.net%2Ffe9f%2Ff%2F2012%2F222%2F1%2F7%2Fsuper_vegito_render_extraction_png_by_tattydesigns-d5amzat.png&f=1&nofb=1&ipt=744a82b5e926752206eb7384802d7edae3111d865e4a0f59a58e8e359221b338&ipo=images',
+    'about': 'Vegito (ベジット Bejitto), also known as Vegerot in the Viz English manga, is the resulting fusion between Goku and Vegeta by the use of the Potara Earrings. Like his Fusion Dance counterpart, Gogeta, Vegito is regarded as one of the most powerful characters in the original Dragon Ball manga.',
+    'race': 'Saiyan',
+    'height': 'Unknown',
+    'weight': 'Unknown',
+    'birthDate': 'Episode 268 | "Union of Rivals"',
+    'deathDates': ['Unknown'
+    ],
+    'alliegiance': ['Dragon Team'
+    ]
+  },
+  'gogeta': {
+    'name': 'Gogeta',
+    'pic': 'https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9a200088-6b2b-4506-a544-31da4a95b035/dbhg5uj-0db51ff6-5016-43d4-aed5-fe4565c0a974.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzlhMjAwMDg4LTZiMmItNDUwNi1hNTQ0LTMxZGE0YTk1YjAzNVwvZGJoZzV1ai0wZGI1MWZmNi01MDE2LTQzZDQtYWVkNS1mZTQ1NjVjMGE5NzQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.0TYeL2bi65vG2EQC8BEgSaxPhEylPewZB-ZT7xx5PYg',
+    'about': 'Gogeta (ゴジータ Gojīta) is the Metamoran fusion of Goku and Vegeta when they perform the Fusion Dance properly. His voice is a dual voice containing both Goku\'s and Vegeta\'s voices. Like his Potara counterpart; Vegito, he is regarded as one of the most powerful characters in the entire Dragon Ball franchise, combining the power of Goku and Vegeta and even magnifying them to become even more powerful.',
+    'race': 'Saiyan',
+    'height': 'Unknown',
+    'weight': 'Unknown',
+    'birthDate': '12th DBZ Film | "Dragon Ball Z: Fusion Reborn"',
+    'deathDates': ['Unknown'
+    ],
+    'alliegiance': ['Dragon Team'
+    ]
+  },
+  'janemba': {
+    'name': 'Janemba',
+    'pic': 'https://vignette.wikia.nocookie.net/death-battle-fanon-wiki-en-espanol/images/2/2e/Janemba.png/revision/latest?cb=20190825211231&path-prefix=es',
+    'about': 'Janemba (ジャネンバ Janenba) is the main antagonist in Dragon Ball Z: Fusion Reborn, and he appears in several other Dragon Ball media. He is a powerful demon and the living definition of evil.',
+    'race': 'Evil Incarnate',
+    'height': 'Unknown',
+    'weight': 'Unknown',
+    'birthDate': 'Age 774',
+    'deathDates': ['Age 774 (physical body destroyed)',
+    'Age 776 (physical body destroyed)',
+    'Age 780 or Age 781 (physical body destroyed)'
+    ],
+    'alliegiance': ['Kings of Destruction',
+    'Time Breakers',
+    'Universe Creation Planners'
+    ]
+  },
+  'kid buu': {
+    'name': 'Kid Buu',
+    'pic': 'http://images2.wikia.nocookie.net/__cb20120112040906/ultradragonball/images/d/d4/Kid_Buu_by_drozdoo.png',
+    'about': 'Kid Buu (魔人ブウ（純粋） Majin Bū (Junsui), lit. "Demon Person Boo (Pure)") is the original, pure form of Majin Buu. Unlike his other forms, this form of Buu\'s thought process is seen to be irrational and spontaneous, even destroying his own body to destroy the Earth. Although he appears smaller than any other form, he is more dangerous than any other forms of Buu due to his full relentless evil and unpredictability. He is also completely free of restraint and has no trace of sanity and, because of this, is extremely volatile. He retains his childish personality, becoming amused and laughing hysterically at his own destruction of entire worlds. He is the main antagonist for the Kid Buu Saga, the final antagonist of the Majin Buu Saga, and the overall final antagonist of Dragon Ball Z.',
+    'race': 'Majin',
+    'height': 'Unknown',
+    'weight': 'Unknown',
+    'birthDate': 'Time Immemorial or 5 Million Before Age',
+    'deathDates': ['May 9th, Age 774'
+    ],
+    'alliegiance': ['Organization of Babidi Mastermind\'s group'
+    ]
+  },
+  'majin buu': {
+    'name': 'Majin Buu',
+    'pic': 'https://i.pinimg.com/originals/4d/c6/5b/4dc65bb653521e9956f4600f646d57cd.png',
+    'about': 'Majin Buu (魔人ブウ Majin Bū, lit. "Demon Person Boo") has many forms. However, each form has a different personality and goals, essentially making them separate individuals. All of Majin Buu\'s forms are simply referred to as "Majin Buu" in the series, but the various forms get their common names from various Dragon Ball Z video games.',
+    'race': 'Majin',
+    'height': 'Unknown',
+    'weight': 'Unknown',
+    'birthDate': 'Time Immemorial or 5 Million Before Age',
+    'deathDates': ['May 9th, Age 774'
+    ],
+    'alliegiance': ['Organization of Babidi Mastermind\'s group'
+    ]
+  },
+  'bee': {
+    'name': 'Bee',
+    'pic': 'https://i.pinimg.com/originals/66/fc/e9/66fce928fc36daa483f83043a0d71579.png',
+    'about': 'Bee (ベエ Bē) is a Labrador owned by Mr. Satan and Good Buu.',
+    'race': 'Canine',
+    'height': 'Unknown',
+    'weight': 'Unknown',
+    'birthDate': 'Age 774',
+    'deathDates': ['Never, because I refuse to acknowledge that Bee is capable of dying. Didn\'t happen, can\'t tell me otherwise.'
+    ],
+    'alliegiance': ['Dragon Team (Son family)'
     ]
   },
   'unknown': 'Unknown character entered.'
