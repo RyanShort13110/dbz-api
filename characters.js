@@ -839,7 +839,7 @@ const characters = {
   },
   'android 17': {
     'name': 'Android 17',
-    'pic': 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.4rgw3Ra5O8G7OGlftM_Q9gHaT1%26pid%3DApi&f=1&ipt=df1342ae816874793c180d071e0ed5eb4093449f0faa66205fbd21e1afc1a895&ipo=images',
+    'pic': 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette.wikia.nocookie.net%2Fpoohadventures%2Fimages%2F7%2F7e%2FAndroid_17_5_by_nekoar-db7h3vr.png%2Frevision%2Flatest%3Fcb%3D20180127233337&f=1&nofb=1&ipt=dbf1e77dd3c35ba9d73fc331a92e046935be6e87b77ad9069ea7215661d52a7a&ipo=images',
     'about': 'Android 17 (人造人間１７号 Jinzōningen Jū Nana-Gō), Lapis (ラピス Rapisu) when he was an ordinary human,[2] is the younger twin brother of Android 18 and Dr. Gero\'s seventeenth android creation, designed to serve Gero\'s vendetta against Goku. Despite his interests not initially deviating from this expectation, Android 17 takes it upon himself to kill Dr. Gero, who is uncooperative with Android 18\'s curiosity in activating Android 16 and deemed inferior by 17.',
     'race': 'Human-type Earthling - formerly Android',
     'height': 'Unknown',
@@ -944,7 +944,7 @@ const characters = {
   },
   'bardock': {
     'name': 'Bardock',
-    'pic': 'hwww.pngmart.com/files/12/Dragon-Ball-Bardock-PNG-Transparent-Image.png',
+    'pic': 'www.pngmart.com/files/12/Dragon-Ball-Bardock-PNG-Transparent-Image.png',
     'about': 'Bardock (バーダック Bādakku) is a low-class Saiyan warrior, the husband of Gine, and the father of Raditz and Goku. He makes his debut as the titular protagonist of the 1990 TV special Dragon Ball Z: Bardock - The Father of Goku. Bardock\'s childhood until his early years in adulthood is unknown, but he is shown to lead his own squad into battle, and they are very successful in accomplishing their assignments. He is an adept fighter and a devoted Saiyan Army soldier under the Frieza Force until he realizes his tyrannical boss plans to annihilate the Saiyan race.',
     'race': 'Saiyan',
     'height': 'Unknown',
@@ -1060,9 +1060,59 @@ const characters = {
       'Vegeta Jr. (descendant)'
     ]
   },
+  'dr. brief': {
+    'name': 'Dr. Brief',
+    'pic': 'hhttps://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages-wixmp-ed30a86b8c4ca887773594c2.wixmp.com%2Ff%2F84dc13b7-a2e7-4b45-83ec-311e72e82900%2Fdbxtzhz-f91a1130-fd5e-4c6c-9b3f-1f9bdaa7e7e0.png%3Ftoken%3DeyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg0ZGMxM2I3LWEyZTctNGI0NS04M2VjLTMxMWU3MmU4MjkwMFwvZGJ4dHpoei1mOTFhMTEzMC1mZDVlLTRjNmMtOWIzZi0xZjliZGFhN2U3ZTAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.VYsHL3BI30HGStR1RauugutDOWi8bRNBuxs921NAFHk&f=1&nofb=1&ipt=4958af2bd9325dc04d2f43a0062c7206cf5d36d28635e695746f16acdbac90e7&ipo=images',
+    'about': 'Dr. Brief (ブリーフ博士 Burīfu Hakase) is an elderly, brilliant, and eccentric scientist. He is the founder of Capsule Corporation, the father of Tights and Bulma, and the maternal grandfather of Trunks and Bulla. Dr. Brief is also one of the smartest and richest men in the world. He lives in West City with his wife and their many pets.',
+    'race': 'Earthling',
+    'height': 'Unknown',
+    'weight': 'Unknown',
+    'birthDate': 'Unknown',
+    'deathDates': [
+      'May 8, Age 774'
+    ],
+    'alliegiance': [
+      'Unknown'
+    ],
+    'relatives': [
+      'Bikini (wife)',
+      'Tights (daughter)[1]',
+      'Bulma (daughter)',
+      'Vegeta (son-in-law)',
+      'Trunks (grandson)',
+      'Bulla (granddaughter)',
+      'Bulma Leigh (descendant)',
+      'Vegeta Jr. (descendant)',
+      'Scratch (pet)'
+    ]
+  },
+  'grandpa gohan': {
+    'name': 'Grandpa Gohan',
+    'pic': 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdbz.space%2Fasset%2Fglobal%2Fcharacter%2Fcard%2F1004510%2Fcard_1004510_character.png&f=1&nofb=1&ipt=189783b2456b4cedf6b2418d36c9fe86306ade30e9bdcc6f2de884a87181a979&ipo=images',
+    'about': 'Grandpa Son Gohan (孫悟飯じいさん Son Gohan Jīsan, Japanese pronunciation: [sõŋgohãɲʥiːsãɴ]) is a martial artist who was Master Roshi\'s number one pupil. He is the adoptive grandfather of Goku. Due to being accidentally killed by a rampaging Great Ape Goku before the start of the Dragon Ball series, he does not fully debut until his disguised appearance as "The Mysterious Fifth Man" alongside Fortuneteller Baba\'s other fighters, where he temporarily reunites with Goku. In anime filler, he currently holds a position as Annin\'s attendant and bodyguard of the Furnace of Eight Divisions. Grandpa Gohan is responsible for giving Son Goku his Earth name and serves as an important mentor and parent figure in his life, being firstly responsible for Goku\'s kindhearted and heroic nature. His legacy runs deep through his adoptive grandson\'s family, as Goku\'s son Gohan was named in honor of him.',
+    'race': 'Human-type Earthling',
+    'height': '158 cm (5\'2")',
+    'weight': '51 kg (112 lbs)',
+    'birthDate': 'Age 658',
+    'deathDates': [
+      'Between Age 738-Age 749'
+    ],
+    'alliegiance': [
+      'Turtle School'
+    ],
+    'relatives': [
+      'Goku (adoptive grandson)',
+      'Chi-Chi (adoptive granddaughter-in-law)',
+      'Gohan (adoptive great-grandson)',
+      'Goten (adoptive great-grandson)',
+      'Pan (adoptive great-great granddaughter)',
+      'Goku Jr. (adoptive great-great-great-great-great-great-grandson)'
+    ]
+  },
   'unknown':{
     'name': 'Unknown character',
-    'pic': 'https://vectorified.com/images/unknown-person-icon-12.png'
+    'pic': 'https://vectorified.com/images/unknown-person-icon-12.png',
+    'about': 'Check spelling or punctuation and try again!'
   }
 
 }
