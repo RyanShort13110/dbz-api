@@ -944,7 +944,7 @@ const characters = {
   },
   'bardock': {
     'name': 'Bardock',
-    'pic': 'www.pngmart.com/files/12/Dragon-Ball-Bardock-PNG-Transparent-Image.png',
+    'pic': 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F4.bp.blogspot.com%2F-DY4OOxfZrWE%2FUebMQNjSciI%2FAAAAAAAABkk%2FcXHI1vb8JVY%2Fs1600%2FBattle%2BDamaged%2BBardock%2B-%2BEpisode%2Bof%2BBardock.png&f=1&nofb=1&ipt=4d1d3e49c3222e130934b87165e56b34a2b044a58f91b17118fe559d71cc01b4&ipo=images',
     'about': 'Bardock (バーダック Bādakku) is a low-class Saiyan warrior, the husband of Gine, and the father of Raditz and Goku. He makes his debut as the titular protagonist of the 1990 TV special Dragon Ball Z: Bardock - The Father of Goku. Bardock\'s childhood until his early years in adulthood is unknown, but he is shown to lead his own squad into battle, and they are very successful in accomplishing their assignments. He is an adept fighter and a devoted Saiyan Army soldier under the Frieza Force until he realizes his tyrannical boss plans to annihilate the Saiyan race.',
     'race': 'Saiyan',
     'height': 'Unknown',
