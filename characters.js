@@ -422,7 +422,10 @@ const characters = {
     'alliegiance': ['Dragon Team (Son family)'
     ]
   },
-  'unknown': 'Unknown character entered.'
+  'unknown':{
+    'name': 'Unknown character',
+    'pic': 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.cgCl9UNW9yMKeFECDT8S8QAAAA%26pid%3DApi&f=1&ipt=b75a21c4716c749ba246d890a554d908d1809705c43fe17b41a86c17c22735be&ipo=images'
+  }
 
 }
 
