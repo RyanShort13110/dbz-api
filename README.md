@@ -48,8 +48,60 @@ I built this little API as a fun weekend project. It is not necessarily 'complet
 
 It is not affiliated with DBZ, Toei Animation, or Funimation in any way, I'm simply a fan of the series.
 
----
 This API is hosted with Cyclic.
+
+---
+
+### Full Character List
+
+This is the list of characters currently added to the API. As you can see, there are still many more to add.
+
+* 'Android 16, 17, 18 & 19' 
+* 'Bardock'
+* 'Bee'
+* 'Bikini brief'
+* 'Broly'
+* 'Bubbles'
+* 'Bulma'
+* 'Cell'
+* 'Chi Chi'
+* 'Cooler'
+* 'Dende'
+* 'Dr. Brief''
+* 'Dr. Gero'
+* 'Frieza'
+* 'Future Trunks'
+* 'Future Gohan'
+* 'Gregory'
+* 'Gogeta'
+* 'Gohan'
+* 'Goku'
+* 'Goten'
+* 'Gotenks'
+* 'Grandpa Gohan'
+* 'Guru'
+* 'Janemba'
+* 'Kami'
+* 'Kid Buu'
+* 'King Cold'
+* 'King Kai'
+* 'King Vegeta'
+* 'Krillin'
+* 'Majin Buu'
+* 'Marron'
+* 'Nail'
+* 'Ox King'
+* 'Piccolo'
+* 'Porunga'
+* 'Raditz'
+* 'Saibamen'
+* 'Shenron'
+* 'Tien'
+* 'Trunks'
+* 'Vegeta'
+* 'Vegito'
+* 'Videl'
+* 'Yamcha'
 
 ### Built With
 

@@ -1109,10 +1109,270 @@ const characters = {
       'Goku Jr. (adoptive great-great-great-great-great-great-grandson)'
     ]
   },
+  'bikini brief': {
+    'name': 'Bikini Brief',
+    'pic': 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.wikia.nocookie.net%2Fdragonball%2Fimages%2F6%2F6d%2FMrs._Brief.png%2Frevision%2Flatest%3Fcb%3D20160104232306%26path-prefix%3Dit&f=1&nofb=1&ipt=82d8d1c18d3594f680b26c4b1e0470531a12d6bad0ac74d14ca72e60f1ad8d98&ipo=images',
+    'about': 'Bikini (ビキニ) is the wife of Dr. Brief, the mother of Tights and Bulma, the mother-in-law of Vegeta, and the maternal grandmother of Trunks and Bulla. Bikini went unnamed in the original manga, anime and guidebooks, only ever being referred to as Bulma\'s mother (ブルマのママ Buruma no mama). In an interview, Toriyama noted that had he named her he probably would have gone with Panchy (パンチー Panchī), which was later used as her name in Dragon Ball SD.',
+    'race': 'Human-type Earthling',
+    'height': 'Unknown',
+    'weight': 'Unknown',
+    'birthDate': 'Unknown',
+    'deathDates': [
+      'May 8, Age 774'
+    ],
+    'alliegiance': [
+      'Brief family',
+      'Capsule Corporation',
+      'Dragon Team'
+    ],
+    'relatives': [
+      'Dr. Brief (husband)',
+      'Tights (daughter)',
+      'Bulma (daughter)',
+      'Future Bulma (daughter, alternate timeline)',
+      'Vegeta (son-in-law)',
+      'Trunks (grandson)',
+      'Future Trunks (grandson, alternate timeline)',
+      'Bulla (granddaughter)',
+      'Bulma Leigh (descendant)',
+      'Vegeta Jr. (descendant)'
+    ]
+  },
+  'future gohan': {
+    'name': 'Future Gohan',
+    'pic': 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F2.bp.blogspot.com%2F-7FuQRlEF1Mw%2FWXuVui47UrI%2FAAAAAAAAAW4%2FfIr4SuFj_Is01qehSLlRvJUoOOGgxhYoQCLcBGAs%2Fs1600%2Fgohan_del_futuro_by_elninja75-d8ehu0k.png&f=1&nofb=1&ipt=ed8e5f838808a2b75150aaa8d102c06e4b6d9e4523000a379c5f9b7e7af3eed9&ipo=images',
+    'about': 'Future Gohan (未来の孫悟飯 Mirai no Son Gohan) is the alternate timeline counterpart of Gohan that appears in the timeline in which Future Trunks lives. Future Gohan is showcased as a twenty-three-year-old man and is depicted as the mentor of Future Trunks. After his father dies from a heart virus and cannot be wished back with the Dragon Balls, due to his death being a natural cause and the murder of the Dragon Team at the hands of Android 17 and Android 18 six months later, Gohan becomes Earth\'s last line of defense. Now a Super Saiyan, he spends the following thirteen years attempting to take down the androids, all the while training Future Trunks in the hope that he may one day be able to defeat them. ',
+    'race': '1/2 Human-type Earthling-1/2 Saiyan',
+    'height': 'Unknown',
+    'weight': 'Unknown',
+    'birthDate': 'UnknowMay 18, Age 757',
+    'deathDates': [
+      'Age 780'
+    ],
+    'alliegiance': [
+      'Dragon Team'
+    ],
+    'relatives': [
+      'Future Grandpa Gohan (adoptive great-grandfather)',
+      'Future Bardock (paternal grandfather)',
+      'Future Gine (paternal grandmother)',
+      'Future Ox-King (maternal grandfather)',
+      'Future Goku (father)',
+      'Future Chi-Chi (mother)',
+      'Future Raditz (uncle)'
+    ]
+  },
+  'nail': {
+    'name': 'Nail',
+    'pic': 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette.wikia.nocookie.net%2Fdragonball%2Fimages%2F6%2F60%2FNail_Artwork.png%2Frevision%2Flatest%3Fcb%3D20160722194728%26path-prefix%3Des&f=1&nofb=1&ipt=c699ddf3296ba218f2355482e66374a738121801949f31963bf9f9f343b80471&ipo=images',
+    'about': 'Nail (ネイル Neiru) is a Namekian described as the \'lone\' Warrior-type Namekian left when he first appeared in the manga. He is the personal bodyguard to Grand Elder Guru, and is incredibly strong for a Namekian. In fact, he was the most powerful Namekian alive at the time of Frieza\'s attack on Namek. He would later fuse with Piccolo, meaning he would continue to hold the title of the most powerful Namekian, as he was part of Piccolo\'s immense strength. ',
+    'race': 'Namekian',
+    'height': 'Unknown',
+    'weight': 'Unknown',
+    'birthDate': 'May 18, Age 757',
+    'deathDates': [
+      'December 24, Age 762',
+      'May 8, Age 774',
+      'Age 779',
+      'Age 780',
+      'Age 789'
+    ],
+    'alliegiance': [
+      'Warriors',
+      'Dragon Team (supporter)',
+      'Resistance faction'
+    ],
+    'relatives': [
+      'Guru (parent)',
+      'Tsuno (sibling)',
+      'Moori (sibling)',
+      'Cargo (sibling)',
+      'Dende (sibling)',
+      'Esca (sibling)',
+      'Moolin (sibling)',
+      'Esca (sibling)',
+      'Tanissh (sibling)',
+      'Tsuburi (sibling)',
+      'Namekian Savior (sibling)',
+      '98 other siblings'
+    ]
+  },
+  'porunga': {
+    'name': 'Porunga',
+    'pic': 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fc5%2Fa6%2F83%2Fc5a68362a797cd56615fa2f02324400a.png&f=1&nofb=1&ipt=eb0548645716f8fe8aee1f63dc0597ef84f66587e4348f2c40811e9bf1a7a6b9&ipo=images',
+    'about': 'Porunga (ポルンガ Porunga) is the wish-granting dragon from Planet Namek. His name in Namekian language translates to "Dragon of Dreams" or "Dragon of Law". In the anime, Dende refers to Porunga as the "Dragon of Love", "God of Dreams", "Maker of Dreams", or even "Granter of Dreams" in Dragon Ball Z Kai. ',
+    'race': 'Eternal Dragon',
+    'height': 'Unknown',
+    'weight': 'Unknown',
+    'birthDate': 'Unknown',
+    'deathDates': [
+      'Unknown'
+    ],
+    'alliegiance': [
+      'No alliegance'
+    ],
+    'relatives': [
+      'Guru (creator)',
+      'Moori (second creator)',
+      'Esca (third creator)'
+    ]
+  },
+  'guru': {
+    'name': 'Grand Elder Guru',
+    'pic': 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fa8%2F09%2F4b%2Fa8094ba2441a9300ea22242ae02d5645.png&f=1&nofb=1&ipt=2555ea798830598b820d6cedca36070d38ad133ed397c2a458454166248e9ee3&ipo=images',
+    'about': 'Guru (最長老 Saichōrō, lit. "The Highest Elder") is the oldest and wisest remaining Namekian in existence at the time of his appearance. As the creator of the Namekian Dragon Balls, Guru\'s death would cause them to become inert, unless he passes down his authority to someone else. ',
+    'race': 'Namekian',
+    'height': 'Unknown',
+    'weight': 'Unknown',
+    'birthDate': 'c. Age 261',
+    'deathDates': [
+      'December 24th, Age 762'
+    ],
+    'alliegiance': [
+      'Dragon Clan'
+    ],
+    'relatives': [ 
+      'Tsuno (child)',
+      'Moori (child)',
+      'Nail (child)',
+      'Dende (child)',
+      'Cargo (child)',
+      'Moolin (child)',
+      'Necke (child)',
+      'Esca (child)',
+      'Tanissh (child)',
+      'Tsuburi (child)',
+      'Namekian Savior (child)',
+      '98 other children',
+      'Porunga (creation)'
+    ]
+  },
+  'dende': {
+    'name': 'Dende',
+    'pic': 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette.wikia.nocookie.net%2Fdragonball%2Fimages%2F5%2F5f%2FDende2.png%2Frevision%2Flatest%3Fcb%3D20170810230722%26path-prefix%3Dfr&f=1&nofb=1&ipt=96ba9655c0b786a739ed5ed7c49910d5dd68389681910ac682368f6ea620d729&ipo=images',
+    'about': 'Dende (デンデ Dende) is a Namekian with a unique gift that allows him to heal others. He is the 108th son of Grand Elder Guru. On Goku\'s request, Dende becomes the Earth\'s Guardian in Kami\'s place. He continues his role as Guardian for the rest of the series, helping the protagonists during their adventures whenever he can.',
+    'race': 'Namekian',
+    'height': 'Unknown',
+    'weight': 'Unknown',
+    'birthDate': 'Unknown',
+    'deathDates': [
+      'December 24, Age 762'
+    ],
+    'alliegiance': [
+      'Dragon Clan'
+    ],
+    'relatives': [ 
+      'Grand Elder Guru (parent)',
+      'Tsuno (sibling)',
+      'Moori (sibling)',
+      'Nail (sibling)',
+      'Cargo (sibling)',
+      'Moolin (sibling)',
+      'Necke (sibling)',
+      'Esca (sibling)',
+      'Tanissh (sibling)',
+      'Tsuburi (sibling)',
+      'Namekian Savior (sibling)',
+      '97 other siblings',
+      'Shenron (reanimation)'
+    ]
+  },
+  'kami': {
+    'name': 'Kami',
+    'pic': 'https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F4.bp.blogspot.com%2F-GTEYwkeBx_M%2FUEJhc_68XOI%2FAAAAAAAABbo%2FEvNiXtoUDHI%2Fs1600%2Fkamisama.png&f=1&nofb=1&ipt=f7f8a120c8d42c6d29e3adeebce9ae3223a67792fd74906bdae03ca6238567d8&ipo=images',
+    'about': 'Kami (神様 Kami-sama, lit. "God", "Deity", or "Divine Being") was the former Guardian of the Earth, and the good counterpart of King Piccolo. Throughout a majority of the story, the character known as Kami was a wise Namekian, who alongside Piccolo, was once a single being, who no longer remembered his real name, although it was revealed that he was the son of Katas. He hatched on Namek in Age 242 and, as a child, was launched by Katas into outer space in a Namekian spaceship which requires at least a basic knowledge of the Namekian language to pilot. The Nameless Namekian later learnt of the Guardian of the Earth, and that its role could be passed down, but only to those pure of heart. Thus, the Namekian split himself into being, while simultaneously expelling the darkness within him. The remaining good half became Kami, while the evil expunged became King Piccolo. Kami is also the Namekian that created Earth\'s Dragon Balls.',
+    'race': 'Namekian',
+    'height': [
+      '250 cm (8\'2") "Prime"',
+      '223 cm (7\'4") "Old"'
+    ],
+    'weight': [
+      '200 kg (441 lbs) "Prime"',
+      '115.5 kg (255 lbs) "Old"'
+    ],
+    'birthDate': 'Age 461 (Nameless Namekian separates to form Piccolo and Kami)',
+    'deathDates': [
+      'November 3, Age 762',
+      'May 12, Age 767',
+      'May 8, Age 774'
+    ],
+    'alliegiance': [
+      'Dragon Clan',
+      'Dragon Team',
+      'DBH Team (allies)'
+    ],
+    'relatives': [
+      'Katas (parent)',
+      'Piccolo (evil counterpart\'s child)',
+      'Dark Vassals of the past (evil counterpart\'s children)',
+      'Ukulele (evil counterpart\'s child)',
+      'Piano (evil counterpart\'s child)',
+      'Tambourine (evil counterpart\'s child)',
+      'Cymbal (evil counterpart\'s child)',
+      'Drum (evil counterpart\'s child)',
+      'Shenron (creation)',
+      'Dende (successor)'
+    ]
+  },
+  'shenron': {
+    'name': 'Shenron',
+    'pic': 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages-wixmp-ed30a86b8c4ca887773594c2.wixmp.com%2Ff%2F84dc13b7-a2e7-4b45-83ec-311e72e82900%2Fdcjzwjc-cb526aa1-3afe-40b1-8916-5ed83873156f.png%3Ftoken%3DeyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg0ZGMxM2I3LWEyZTctNGI0NS04M2VjLTMxMWU3MmU4MjkwMFwvZGNqendqYy1jYjUyNmFhMS0zYWZlLTQwYjEtODkxNi01ZWQ4Mzg3MzE1NmYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.qvE7GjSCRdLQMS293ZO0AK7LzlA7jfx8OGFslMc0tbI&f=1&nofb=1&ipt=fccf48c2081ff4f61a34a164bf920ab0813b2e1e2377186b7cad7b6877a96bfd&ipo=images',
+    'about': 'Shenron (神龍 Shenron, lit. "God/Divine Dragon") is a magical Dragon from the Dragon Ball franchise. In the English dub of Dragon Ball, he is mostly called the "Eternal Dragon" and, in the early Harmony Gold dub from the 1980s, he is known as the "Dragon God". ',
+    'race': 'Eternal Dragon',
+    'height': 'Unknown',
+    'weight': 'Unknown',
+    'birthDate': 'Age 470',
+    'deathDates': [
+      'May 8, Age 753'
+    ],
+    'alliegiance': [
+      'No alliegance'
+    ],
+    'relatives': [
+      'Kami (creator)',
+      'Dende (second creator)'
+    ]
+  },
+  'bubbles': {
+    'name': 'Bubbles',
+    'pic': 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette.wikia.nocookie.net%2Fdragonball%2Fimages%2Fd%2Fd4%2FBubbles_Artwork.png%2Frevision%2Flatest%3Fcb%3D20170114153331%26path-prefix%3Des&f=1&nofb=1&ipt=0ad21fbc4022ca3ab77b2b8d653c7fa8cd8499e7f9d42d1e372f310d093ba352&ipo=images',
+    'about': 'Bubbles (バブルス Baburusu) is the monkey pet and friend of King Kai. He serves a special purpose during King Kai\'s training lessons, particularly one of two endurance tests, where trainees are instructed to chase after Bubbles in an effort to catch him. Though the task may seem simple at first, there is a catch: the gravity on King Kai\'s Planet is ten times that of Earth, and Bubbles is perfectly used to it.',
+    'race': 'Monkey',
+    'height': 'Unknown',
+    'weight': 'Unknown',
+    'birthDate': 'Unknown',
+    'deathDates': [
+      'May 26, Age 767'
+    ],
+    'alliegiance': [
+      'No alliegance'
+    ],
+    'relatives': [
+      'King Kai (owner)'
+    ]
+  },
+  'gregory': {
+    'name': 'Gregory',
+    'pic': 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F12%2F44%2F45%2F1244452f4d6a7f1805060984ca790f5e.png&f=1&nofb=1&ipt=adfcc4b74b1d25a3e3add49881589e63fe11d8f0ea02441f7badbea4cfb8bc7f&ipo=images',
+    'about': 'Gregory (グレゴリー Guregorī) is a levitating cricket sprite that acts as King Kai\'s butler and looks after him.',
+    'race': 'Sprite',
+    'height': 'Unknown',
+    'weight': 'Unknown',
+    'birthDate': 'Unknown',
+    'deathDates': [
+      'May 26, Age 767'
+    ],
+    'alliegiance': [
+      'No alliegance'
+    ],
+    'relatives': [
+      'Unknown'
+    ]
+  },
   'unknown':{
     'name': 'Unknown character',
     'pic': 'https://vectorified.com/images/unknown-person-icon-12.png',
-    'about': 'Check spelling or punctuation and try again! If a characters name contains a period "." or any special character, ensure to add that when searching! For example "Dr. Brief".'
+    'about': 'Character not available. Check spelling or punctuation and try again! If a characters name contains a period ".", ensure to add that when searching! For example "Dr. Brief".'
   }
 
 }
