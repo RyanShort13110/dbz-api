@@ -94,7 +94,7 @@ This is the list of characters currently added to the API.
 * Bulma
 * Cell
 * Cell Jr.
-* Chi Chi
+* Chi-Chi
 * Cooler
 * Dende
 * Dr. Brief
