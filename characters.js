@@ -1112,7 +1112,7 @@ const characters = {
   'unknown':{
     'name': 'Unknown character',
     'pic': 'https://vectorified.com/images/unknown-person-icon-12.png',
-    'about': 'Check spelling or punctuation and try again!'
+    'about': 'Check spelling or punctuation and try again! If a characters name contains a period "." or any special character, ensure to add that when searching! For example "Dr. Brief".'
   }
 
 }
