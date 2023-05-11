@@ -52,57 +52,6 @@ This API is hosted with Cyclic.
 
 ---
 
-### Full Character List
-
-This is the list of characters currently added to the API. As you can see, there are still many more to add.
-
-* 'Android 16, 17, 18 & 19' 
-* 'Bardock'
-* 'Bee'
-* 'Bikini brief'
-* 'Broly'
-* 'Bubbles'
-* 'Bulma'
-* 'Cell'
-* 'Chi Chi'
-* 'Cooler'
-* 'Dende'
-* 'Dr. Brief''
-* 'Dr. Gero'
-* 'Frieza'
-* 'Future Trunks'
-* 'Future Gohan'
-* 'Gregory'
-* 'Gogeta'
-* 'Gohan'
-* 'Goku'
-* 'Goten'
-* 'Gotenks'
-* 'Grandpa Gohan'
-* 'Guru'
-* 'Janemba'
-* 'Kami'
-* 'Kid Buu'
-* 'King Cold'
-* 'King Kai'
-* 'King Vegeta'
-* 'Krillin'
-* 'Majin Buu'
-* 'Marron'
-* 'Nail'
-* 'Ox King'
-* 'Piccolo'
-* 'Porunga'
-* 'Raditz'
-* 'Saibamen'
-* 'Shenron'
-* 'Tien'
-* 'Trunks'
-* 'Vegeta'
-* 'Vegito'
-* 'Videl'
-* 'Yamcha'
-
 ### Built With
 
 * Node.js
@@ -112,7 +61,7 @@ This is the list of characters currently added to the API. As you can see, there
 * CSS
 * HTML
 
-
+---
 
 <!-- USAGE EXAMPLES -->
 ## Usage and Docs
@@ -130,6 +79,59 @@ https://unofficialdbzapi.cyclic.app/api/krillin
 The API response will contain height and weight info, character birth date and death date(s), short description, images and more.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+---
+
+### Full Character List
+
+This is the list of characters currently added to the API.
+
+* Android 16, 17, 18 & 19
+* Bardock
+* Bee
+* Bikini Brief
+* Broly
+* Bubbles
+* Bulma
+* Cell
+* Chi Chi
+* Cooler
+* Dende
+* Dr. Brief
+* Dr. Gero
+* Frieza
+* Future Trunks
+* Future Gohan
+* Gregory
+* Gogeta
+* Gohan
+* Goku
+* Goten
+* Gotenks
+* Grandpa Gohan
+* Guru
+* Janemba
+* Kami
+* Kid Buu
+* King Cold
+* King Kai
+* King Vegeta
+* Krillin
+* Majin Buu
+* Marron
+* Nail
+* Ox King
+* Piccolo
+* Porunga
+* Raditz
+* Saibamen
+* Shenron
+* Tien
+* Trunks
+* Vegeta
+* Vegito
+* Videl
+* Yamcha
 
 
 
@@ -152,7 +154,7 @@ You'll notice I have a .gitignore file blocking node_modules. You'll need those 
    ```
    npm init
    ```
-3. Ensure express is installed within the main project folder.
+3. Ensure express is installed within the main project folder
     ```
    npm install express --save
    ```
@@ -161,7 +163,23 @@ You'll notice I have a .gitignore file blocking node_modules. You'll need those 
     ```
     npm install cors --save
     ```
-    
+
+5. I also use Nodemon when testing. Nodemon allows for automatic restarting of the server upon any changes being made. This should be saved as a dev dependency
+    ```
+    npm install nodemon --save-dev
+    ```
+
+6. Then add the following into your package.json file. This line should be placed within 'scripts'
+    ```
+    "dev": "nodemon serer.js"
+    ```
+
+7. You can now start your server using the following line in your terminal
+
+    ```
+    npm run dev
+    ```
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
