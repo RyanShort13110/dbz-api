@@ -102,7 +102,7 @@
 document.querySelector('button').addEventListener('click', getCharacter)
 
 function getCharacter(){ // Client side fetch for testin'.
-  let askedForChar = document.querySelector('#character-request').value.toLowerCase().replace(/[^a-z\s.0-9]/gi, '')	// input sanatizing
+  let askedForChar = document.querySelector('#character-request').value.toLowerCase().replace(/[^a-z\s.0-9-]/gi, '') // input sanatizing
   let charName = document.querySelector('#charName')
   let charAbout = document.querySelector('#charAbout')
   let charImg = document.querySelector('#charImg')

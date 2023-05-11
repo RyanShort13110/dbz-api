@@ -88,10 +88,12 @@ This is the list of characters currently added to the API.
 * Bardock
 * Bee
 * Bikini Brief
+* Bio-Broly
 * Broly
 * Bubbles
 * Bulma
 * Cell
+* Cell Jr.
 * Chi Chi
 * Cooler
 * Dende
@@ -100,6 +102,7 @@ This is the list of characters currently added to the API.
 * Frieza
 * Future Trunks
 * Future Gohan
+* Gevo
 * Gregory
 * Gogeta
 * Gohan
@@ -115,10 +118,13 @@ This is the list of characters currently added to the API.
 * King Kai
 * King Vegeta
 * Krillin
+* Launch
 * Majin Buu
 * Marron
+* Mr. Satan
 * Nail
 * Ox King
+* Paragus
 * Piccolo
 * Porunga
 * Raditz

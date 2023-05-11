@@ -349,7 +349,7 @@ const characters = {
       'Princess Snake (love interest)'
     ]
   },
-  'chi chi': {
+  'chi-chi': {
     'name': 'Chi-Chi',
     'pic': 'https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fvignette3.wikia.nocookie.net%2Fp__%2Fimages%2F8%2F8c%2FRender_Dragon_Ball_Chi-Chi.png%2Frevision%2Flatest%3Fcb%3D20140404174414%26path-prefix%3Dprotagonist&f=1&nofb=1&ipt=40221cfe8b530cc2ced718395724dc42c471c22ed7bb985d6c413196488a4b75&ipo=images',
     'about': 'Chi-Chi (チチ Chichi) is the princess of Fire Mountain and the daughter of the Ox-King. She later marries Goku and becomes the loving mother of Gohan and Goten. She was first introduced as a shy and fearful girl, but later, as she gets older, develops a very tomboyish, tough and fierce personality, which sometimes causes her to have angry outbursts seen several times throughout the series. Despite this, she has shown her love for Goku and their sons many times throughout the series.',
@@ -583,6 +583,33 @@ const characters = {
       'Android 18 ("sister")'
     ]
   },
+  'cell jr.': {
+    'name': 'Cell Jr.',
+    'pic': 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcomicvine.gamespot.com%2Fa%2Fuploads%2Foriginal%2F11142%2F111428152%2F7511193-abdeae41-1b33-4a43-a243-6b344ee8dc6f.png&f=1&nofb=1&ipt=f6235de775ece6ad874a4cfe53991408557f937b08c212684ce7813f9649b057&ipo=images',
+    'about': 'Cell Jr. (セルJr. Seru Junia) is an offspring of Cell. They were asexually produced from Cell\'s tail, through cellular mitosis. According to Cell himself, each Cell Junior he produced had his power and abilities.',
+    'race': 'Bio-Android (contains Saiyan, Namekian, Frieza Race, Earthling and several other life-forms\' cells)',
+    'height': 'Unknown',
+    'weight': 'Unknown',
+    'birthDate': 'May 26, Age 767',
+    'deathDates': [
+      'May 8, Age 774'
+    ],
+    'alliegiance': [
+      'Red Ribbon Androids',
+      'Cells',
+      'Monster Island Rangers',
+      'Cooler Force',
+      'Galaxy Soldiers',
+      'Sealas'
+    ],
+    'relatives': [
+      'Future Dr. Gero (creator)',
+      'Dr. Gero\'s Supercomputer (co-creator)',
+      'Cell Juniors (offspring/children)',
+      'Android 17 ("brother")',
+      'Android 18 ("sister")'
+    ]
+  },
   'broly': {
     'name': 'Broly',
     'pic': 'https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.pngmart.com%2Ffiles%2F4%2FDragon-Ball-Broly-PNG-Transparent.png&f=1&nofb=1&ipt=e83a41e06bdfba683dc6e5968ceddf4dafea571afffbd09f5fedd0c17e7e336b&ipo=images',
@@ -599,6 +626,73 @@ const characters = {
     ],
     'relatives':[
       'Paragus (father)'
+    ]
+  },
+  'bio-broly': {
+    'name': 'Bio-Broly',
+    'pic': 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpre00.deviantart.net%2F7b6d%2Fth%2Fpre%2Fi%2F2014%2F091%2Fe%2F5%2Fbio_broly_by_luigicuau10-d7cp65i.png&f=1&nofb=1&ipt=cc3d229bfaf294ad1aa89b4500aaa7a683d8348d9b4dcb609d26b9f6a628210f&ipo=images',
+    'about': 'Bio-Broly (バイオブロリー Baio Burorī), also called Drooly (ドロリー Dororī), is a mutated clone of Broly the Legendary Super Saiyan. He is the main antagonist in Dragon Ball Z: Bio-Broly.',
+    'race': 'Mutant Saiyan Bio-Warrior',
+    'height': 'Unknown',
+    'weight': 'Unknown',
+    'birthDate': 'Age 774',
+    'deathDates': [
+      'Age 774'
+    ],
+    'alliegiance': [
+      'No known alliegance'
+    ],
+    'relatives':[
+      'Dr. Collie (creator)',
+      'Nain (co-creator)',
+      'Broly (genetic template)',
+      'Paragus (genetic template\'s father)'
+    ]
+  },
+  'paragus': {
+    'name': 'Paragus',
+    'pic': 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F01%2F8b%2F92%2F018b92cc8319ee40f6fabba94ce56556.png&f=1&nofb=1&ipt=f2c99fb9c1ccd9fb2dd25bd0cd47466e50e310474f1b80675efa61bbb08f5f79&ipo=images',
+    'about': 'Paragus (パラガス Paragasu) is the father of Broly. He appears as the secondary antagonist in Dragon Ball Z: Broly - The Legendary Super Saiyan.',
+    'race': 'Saiyan',
+    'height': 'Unknown',
+    'weight': 'Unknown',
+    'birthDate': 'Unknown',
+    'deathDates': [
+      'Age 767'
+    ],
+    'alliegiance': [
+      'Saiyan Army (formerly)',
+      'New Saiyan Empire',
+      'Dark Empire'
+    ],
+    'relatives':[
+      'Broly (son)',
+      'Bio-Broly (clone of son)'
+    ]
+  },
+  'mr. satan': {
+    'name': 'Mr. Satan',
+    'pic': 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette2.wikia.nocookie.net%2Fp__%2Fimages%2F1%2F14%2FHercule_by_brolyeuphyfusion9500-d4w8jzs.png%2Frevision%2Flatest%3Fcb%3D20140121182747%26path-prefix%3Dprotagonist&f=1&nofb=1&ipt=bb03e863dec7326fe4ed88004454a57eabb3a8452fe1fc23f8d17a03d1ad60bf&ipo=images',
+    'about': 'Mr. Satan (ミスター・サタン Misutā Satan), also known as Hercule Satan in the Funimation dub, is the World Martial Arts Champion and the Earth\'s protector. His real name is Mark (マーク Māku).',
+    'race': 'Human-type Earthling',
+    'height': '188 cm (6\'2")',
+    'weight': '94 kg (208 lbs)',
+    'birthDate': 'Age 736',
+    'deathDates': [
+      'Age 774',
+      'Age 779',
+      'Age 820'
+    ],
+    'alliegiance': [
+      'Dragon Team (support)'
+    ],
+    'relatives':[
+      'Miguel (wife)',
+      'Videl (daughter)',
+      'Gohan (son-in-law)',
+      'Pan (granddaughter)',
+      'Goku Jr. (great-great-grandson)',
+      'Bee (pet)'
     ]
   },
   'vegito': {
@@ -784,7 +878,8 @@ const characters = {
     'height': 'Unknown',
     'weight': 'Unknown',
     'birthDate': 'Age 774',
-    'deathDates': ['Never, because I refuse to acknowledge that Bee is capable of dying. Didn\'t happen, can\'t tell me otherwise.'
+    'deathDates': [
+      'Never, because I refuse to acknowledge that Bee is capable of dying. Didn\'t happen, can\'t tell me otherwise.'
     ],
     'alliegiance': [
       'Dragon Team (Son family)'
@@ -792,6 +887,27 @@ const characters = {
     'relatives': [
       'Good Buu (owner)',
       'Mr. Satan (owner)'
+    ]
+  },
+  'gevo': {
+    'name': 'Gevo',
+    'pic': 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ibb.co%2Ft223QK5%2FGeneral-Gold-Gebo.png&f=1&nofb=1&ipt=cdd58b4ff96b9e8d3b46ba31a72b3bed7614f730edb70d4559637bf0edb10b7a&ipo=images',
+    'about': 'Gevo (ゲボ), code name Gold, is an elite Red Ribbon Army soldier and the son of the Red Ribbon Army head scientist Dr. Gero and Vomi. He is the template for Android 16.',
+    'race': 'Human-type Earthling',
+    'height': 'Unknown',
+    'weight': 'Unknown',
+    'birthDate': 'Age 774',
+    'deathDates': [
+      'Unknown'
+    ],
+    'alliegiance': [
+      'Red Ribbon Army'
+    ],
+    'relatives': [
+      'Dr. Gero (father)',
+      'Vomi (mother)',
+      'Unnamed younger brother',
+      'Dr. Hedo (nephew)'
     ]
   },
   'android 19': {
@@ -1367,6 +1483,25 @@ const characters = {
     ],
     'relatives': [
       'Unknown'
+    ]
+  },
+  'launch': {
+    'name': 'Launch',
+    'pic': 'https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/081375ed-207f-42eb-8662-56e33b2b512d/dddnvis-c96dced9-b0e0-4e82-be08-b08fcacefe1b.png/v1/fill/w_400,h_534,strp/launch__render_1__dokkan_battle__by_zenosamadb_dddnvis-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTM0IiwicGF0aCI6IlwvZlwvMDgxMzc1ZWQtMjA3Zi00MmViLTg2NjItNTZlMzNiMmI1MTJkXC9kZGRudmlzLWM5NmRjZWQ5LWIwZTAtNGU4Mi1iZTA4LWIwOGZjYWNlZmUxYi5wbmciLCJ3aWR0aCI6Ijw9NDAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.urFrFFs0wZ1bF4XSmU2Wd7a1PCkvoCEWNXsKpataV6E',
+    'about': 'Launch (ランチ Ranchi, lit. "Lunch") is a woman with a strange disorder which causes her to switch between two different personalities each time she sneezes. Her first personality is a blue-haired woman, who is sweet, pure-hearted and cheerful and always ready to help. Her other personality is a blonde-haired woman, who is angry and trigger-happy and commits crimes for money and is quick to respond with gunfire when angered. Neither of Launch\'s personalities remembers the other\'s actions or anything they said, that is until the King Piccolo arc, which is evident when she remembers who Krillin was when he died.',
+    'race': 'Human-type Earthling',
+    'height': 'Unknown',
+    'weight': 'Unknown',
+    'birthDate': 'June 17, Age 732',
+    'deathDates': [
+      'May 8, Age 774'
+    ],
+    'alliegiance': [
+      'Turtle School',
+      'Dragon Team'
+    ],
+    'relatives': [
+      'Tien Shinhan (boyfriend)'
     ]
   },
   'unknown':{
