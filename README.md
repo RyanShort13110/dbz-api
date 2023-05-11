@@ -171,7 +171,7 @@ You'll notice I have a .gitignore file blocking node_modules. You'll need those 
 
 6. Then add the following into your package.json file. This line should be placed within 'scripts'
     ```
-    "dev": "nodemon serer.js"
+    "dev": "nodemon server.js"
     ```
 
 7. You can now start your server using the following line in your terminal

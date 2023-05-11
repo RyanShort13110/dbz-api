@@ -339,6 +339,10 @@ pre {
   display: inline-block;
 }
 
+.portfolio-link{
+  font-size: 18px;
+}
+
 hr {
   border: 0;
   border-bottom: solid 2px rgba(255, 255, 255, 0.35);
