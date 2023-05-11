@@ -48,8 +48,6 @@ I built this little API as a fun weekend project. It is not necessarily 'complet
 
 It is not affiliated with DBZ, Toei Animation, or Funimation in any way, I'm simply a fan of the series.
 
-This API is hosted with Cyclic.
-
 ---
 
 ### Built With
