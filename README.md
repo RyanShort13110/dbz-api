@@ -168,7 +168,7 @@ You'll notice I have a .gitignore file blocking node_modules. You'll need those 
     npm install cors --save
     ```
 
-5. I also use Nodemon when testing. Nodemon allows for automatic restarting of the server upon any changes being made. This should be saved as a dev dependency
+5. I also use Nodemon when testing. Nodemon allows for automatic restarting of the server upon any changes being made. This should be saved as a <code>dev dependency</code>
     ```
     npm install nodemon --save-dev
     ```
