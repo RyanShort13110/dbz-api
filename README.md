@@ -12,7 +12,7 @@
 </div>
 
 <div>
-    <p align="center">View the documentation/testing site: <a href="https://unofficialdbzapi.cyclic.app/">The Unofficial DBZ API</a></p>
+    <p align="center">View the documentation/testing site: <a href="#">The Unofficial DBZ API</a></p>
 </div>
 
 ---
@@ -42,7 +42,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About
 
-⚠ App has been taken down from cyclic hosting. I will be hosting the app using a different platform as soon as I have time. I apologize for any issue this may cause with your projects! ⚠
+⚠ Api has been taken down from cyclic hosting. I will be hosting the app using a different platform as soon as I have time. I apologize for any issue this may cause with your projects! ⚠
 <br>
 This is a simple API that sends DBZ character data to client devices from a server hosted with Cyclic. 
 
@@ -209,8 +209,6 @@ You'll notice I have a .gitignore file blocking node_modules. You'll need those 
 ## Contact
 
 Ryan - ryanshort.webdev@gmail.com
-
-Project Link: [Unofficial DBZ API](https://unofficialdbzapi.cyclic.app/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
