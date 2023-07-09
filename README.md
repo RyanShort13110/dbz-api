@@ -42,6 +42,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About
 
+⚠ App has been taken down from cyclic hosting. I will be hosting the app using a different platform as soon as I have time. I apologize for any issue this may cause with your projects! ⚠
+<br>
 This is a simple API that sends DBZ character data to client devices from a server hosted with Cyclic. 
 
 I built this little API as a fun weekend project. It is not necessarily 'complete' yet, as there are still many characters left to add!
